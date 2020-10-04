@@ -32,7 +32,7 @@ Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
 
 ---
 ## Experience
-**Mar 2020 – Present** Senior Product Manager, Risk Management Solutions (RMS).
+**Mar 2020 – Present** Senior Product Manager, Models and Content Experience, Risk Management Solutions (RMS).
 
 **Nov 2018 – Nov 2019** Postdoctoral Research Fellow, Institute of Industrial Science. University of Tokyo.
 
