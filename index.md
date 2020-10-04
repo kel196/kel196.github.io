@@ -74,23 +74,29 @@ March 2020
 ## Awards, Honours, and Distinctions
 
 **IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award – Bronze Prize, 2019**
+
 Paper: Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope
 
 **UCL Student Choice Awards – Exceptional Feedback (Nominated), University College London, 2018**
+
 This award honours member of staff who provides constructive, useful feedback on students’ assessment and learning, helping them to progress and succeed.
 
 **Hart Prize, University College London, 2012**
+
 Awarded for most distinguished performance in the course by the Head of Department of Civil, Environmental and Geomatic Engineering.
 
 ---
 ## Research Funding
 **Japan Society for the Promotion of Science Postdoctoral Fellowship for Research in Japan (short-term), 2018**
+
 The program provides PhD students or PhD researchers in the Europe and North America with opportunities to conduct collaborative research under the guidance of their hosts in universities and other Japanese institutions.
 
 **UCL Centre VEIV Advance Scholarship, University College London, 2017**
+
 The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The award is to support three months’ work in writing and submitting a research proposal or business plan relating directly to VEIV themes.
 
 **Engineering Doctorate Studentship Award – Developing a New 3D Dataset with the Ordnance Survey, The Engineering and Physical Sciences Research Council (EPSRC), 2013**
+
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.
 
 ---
