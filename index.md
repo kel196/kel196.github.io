@@ -61,7 +61,7 @@ Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
 **2008 – 2011** BSc in Geography. University of Southampton, UK.
 
 ---
-## Licenses & Certifications
+## Accreditations and Memberships
 
 **Chartered Geographer (GIS)**
 
