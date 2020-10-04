@@ -26,7 +26,7 @@ A full list of publications **[can be found here.](#publications)**
 
 ---
 ## Contact
-[Kelvin.Wong@rms.com](mailto@Kelvin.Wong@rms.com)
+[Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com)
 
 Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
 
@@ -117,19 +117,19 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Year | Title                                                        |
 | ---- | ------------------------------------------------------------ |
-| 2020 | Wong, K., Gu, Y., and Kamijo, S., 2020. Mapping for Autonomous Driving: Opportunities and Challenges. IEEE Intelligent Transportation Systems Magazine (ITSM). URL: https://doi.org/10.1109/MITS.2020.3014152 |
-| 2019 | Wong, K., Javanmardi, E., Javanmardi, M. and Kamijo, S., 2019. Estimating Autonomous Vehicle Localization Error Using 2D Geographic Information. ISPRS International Journal of Geo-Information, 8(6), p.288. URL: https://doi.org/10.3390/ijgi8060288. Open Access |
-| 2018 | Wong, K. and Ellul, C., 2018. User Requirements Gathering for a National 3D Mapping Product in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W6. URL: https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018. Open Access |
-| 2017 | Wong, K. and Ellul, C., 2017. User Requirements Gathering for 3D Geographic Information in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. IV-4/W5, 125-132. URL: https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017. Open Access |
-|      | Wong, K. and Ellul, C., 2017. Assessing the Suitability of Using Google Glass in Designing 3D Geographic Information for Navigation. In Advances in 3D Geoinformation (pp. 409-422). Springer International Publishing. URL: https://doi.org/10.1007/978-3-319-25691-7_23. |
-| 2016 | Wong, K. and Ellul, C., 2016. Using Geometry-Based Metrics as Part of Fitness-for-Purpose Evaluations of 3D City Models. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, pp.129-136. URL: https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016. Open Access |
+| 2020 | Wong, K., Gu, Y., and Kamijo, S., 2020. Mapping for Autonomous Driving: Opportunities and Challenges. IEEE Intelligent Transportation Systems Magazine (ITSM). URL: [https://doi.org/10.1109/MITS.2020.3014152](https://doi.org/10.1109/MITS.2020.3014152) |
+| 2019 | Wong, K., Javanmardi, E., Javanmardi, M. and Kamijo, S., 2019. Estimating Autonomous Vehicle Localization Error Using 2D Geographic Information. ISPRS International Journal of Geo-Information, 8(6), p.288. URL: [https://doi.org/10.3390/ijgi8060288](https://doi.org/10.3390/ijgi8060288). Open Access |
+| 2018 | Wong, K. and Ellul, C., 2018. User Requirements Gathering for a National 3D Mapping Product in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W6. URL: [https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018](https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018). Open Access |
+| 2017 | Wong, K. and Ellul, C., 2017. User Requirements Gathering for 3D Geographic Information in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. IV-4/W5, 125-132. URL: [https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017](https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017). Open Access |
+|      | Wong, K. and Ellul, C., 2017. Assessing the Suitability of Using Google Glass in Designing 3D Geographic Information for Navigation. In Advances in 3D Geoinformation (pp. 409-422). Springer International Publishing. URL: [https://doi.org/10.1007/978-3-319-25691-7_23](https://doi.org/10.1007/978-3-319-25691-7_23). |
+| 2016 | Wong, K. and Ellul, C., 2016. Using Geometry-Based Metrics as Part of Fitness-for-Purpose Evaluations of 3D City Models. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, pp.129-136. URL: [https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016](https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016). Open Access |
 
 ### Industry Reports
 
 | Year | Title                                                        |
 | ---- | ------------------------------------------------------------ |
-| 2015 | Wong, K.K.Y., 2015. Economic Value of 3D Geographic Information. EuroSDR and the Department of Computer Science, University College London, London, UK. URL: https://tinyurl.com/valueof3D |
-|      | Ellul, C. and Wong, K., 2015. Advances in 3DGIS, AGI foresight report 2020, the Association of Geographic Information. URL: https://www.agi.org.uk/news/foresight-report |
+| 2015 | Wong, K.K.Y., 2015. Economic Value of 3D Geographic Information. EuroSDR and the Department of Computer Science, University College London, London, UK. URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
+|      | Ellul, C. and Wong, K., 2015. Advances in 3DGIS, AGI foresight report 2020, the Association of Geographic Information. URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
 ### Conferences
 
