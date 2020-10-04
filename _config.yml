@@ -10,13 +10,21 @@ title: Dr Kelvin Ka Yin Wong
 #   <a href="https://1drv.ms/b/s!AuQRk-S_lsLklLMRah3udAf_1W2CxQ?e=2Tb6ZS" target="_blank">Download CV Here (PDF)</a>
 logo: /icon.png
 email: kelvinwong@outlook.com
-twitter_username: kel_196
-github_username: kel196
 github: is\_project\_page:false
-
-social.linkedin: "wongkelvin"
-social.twitter: "kel_196"
-
+minima:
+  social_links:
+    twitter: kel_196
+    github: kel196
+#     stackoverflow: "11111"
+#     dribbble: jekyll
+#     facebook: jekyll
+#     flickr: jekyll
+#     instagram: jekyll
+    linkedin: wongkelvin
+#     pinterest: jekyll
+#     telegram: jekyll
+#     microdotblog: jekyll
+#     keybase: jekyll
 
 # Build Settings
 theme: jekyll-theme-minimal
