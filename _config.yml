@@ -1,5 +1,5 @@
 # Site Settings
-title: Dr Kelvin Wong
+title: Dr Kelvin Ka Yin Wong
 # description: > # Text below
 #   A 3D geospatial scientist, chartered geographer, and fellow of The Royal Geographical Society with over nine years of experience of business-oriented research. I enjoy working on the boundary of research and business, where I can innovate while addressing real-world and tangible challenges. Interdisciplinary in nature, I have worked in many different domains from transport planning to human behaviour understanding to autonomous vehicles. 
 #   <br><br>
@@ -14,7 +14,8 @@ twitter_username: kel_196
 github_username: kel196
 github: is\_project\_page:false
 
-social.linked: "wongkelvin"
+social.linkedin: "wongkelvin"
+social.twitter: "kel_196"
 
 
 # Build Settings
