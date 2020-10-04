@@ -9,7 +9,7 @@
 - Autonomous vehicles and intelligent transport systems
 - Catastrophe modelling
 
-**A full list of publications [can be found here.](#Publications)**
+A full list of publications **[can be found here.](#publications)**
 
 ---
 ## Contact
@@ -19,7 +19,7 @@ Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
 
 ---
 ## Curriculum Vitae
-[Download CV here(pdf)](https://1drv.ms/b/s!AuQRk-S_lsLklLMRah3udAf_1W2CxQ?e=2Tb6ZS)
+[Download CV here (pdf)](https://1drv.ms/b/s!AuQRk-S_lsLklLMRah3udAf_1W2CxQ?e=2Tb6ZS)
 
 ---
 ## Experience
