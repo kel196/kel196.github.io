@@ -1,6 +1,8 @@
 # Senior Product Manager at RMS
 ## BSc MSc MRes EngD FRGS CGeog(GIS)
 
+![Dr Kelvin Wong](http://kel196.github.io/icon.png)
+
 A 3D geospatial scientist, chartered geographer, and fellow of The Royal Geographical Society with over nine years of experience of business-oriented research. I enjoy working on the boundary of research and business, where I can innovate while addressing real-world and tangible challenges. Interdisciplinary in nature, I have worked in many different domains from transport planning to human behaviour understanding to autonomous vehicles. 
 
 My overall approach focuses on two key principles: user-centric design, and data quality. I want to deliver high quality analysis that decision makers and stakeholders can trust, providing them with useful business insight for data-informed decisions by leveraging the power of geospatial data.
