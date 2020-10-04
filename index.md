@@ -64,12 +64,15 @@ Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
 ## Licenses & Certifications
 
 **Chartered Geographer (GIS)**
+
 Royal Geographical Society (with IBG). Accredited September 2020.
 
 **Fellow of the Royal Geographical Society**
+
 September 2020
 
 **Member of the Data Visualization Society**
+
 March 2020
 
 ---
