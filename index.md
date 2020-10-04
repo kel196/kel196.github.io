@@ -12,7 +12,7 @@ My overall approach focuses on two key principles: user-centric design, and data
 
 [View my LinkedIn profile](https://www.linkedin.com/in/wongkelvin)
 
-[View my CV](https://1drv.ms/b/s!AuQRk-S_lsLklLMRah3udAf_1W2CxQ?e=2Tb6ZS)
+[View my CV](https://kel196.github.io/CV/Kelvin%20Wong%20CV%20-%20October%202020.pdf)
 
 ---
 ## Research Interests
