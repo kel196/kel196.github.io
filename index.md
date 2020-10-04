@@ -112,7 +112,9 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 | ---- | ------------------------------------------------------------ |
 | 2015 | Wong, K.K.Y., 2015. Economic Value of 3D Geographic Information. EuroSDR and the Department of Computer Science, University College London, London, UK. URL: https://tinyurl.com/valueof3D |
 |      | Ellul, C. and Wong, K., 2015. Advances in 3DGIS, AGI foresight report 2020, the Association of Geographic Information. URL: https://www.agi.org.uk/news/foresight-report |
+
 ### Conferences
+
 | Year | Title                                                        |
 | ---- | ------------------------------------------------------------ |
 | 2020 | Wong, K., Ellul, C., Morley, J., Home, R., and Kalantari, M., 2020. 3rd BIM/GIS Integration Workshop and 15th 3DGeoInfo Conference 2020 - Preface. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume VI-4/W1-2020, 1–1, https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-1-2020 |
@@ -129,14 +131,18 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 |      | Wong, K.K.Y. and Ellul, C., 2015. Designing 3D geographic information for navigation using google glass. In Proceedings of the 23rd GIS Research UK (GISRUK) Conference, Leeds, UK (pp. 15-17). |
 | 2014 | Milner, J., Wong, K. and Ellul, C., 2014. Beyond Visualisation in 3D GIS. In Proceedings of the 23rd GIS Research UK (GISRUK) Conference, Leeds, UK. |
 | 2013 | Wong, K. and Ellul, C., 2013. Enhancing positioning of photovoltaic panels using 3D geographic information. In Proceedings of the 21st GIS Research UK (GISRUK) Conference, Liverpool, UK. |
+
 ### Theses
+
 | Degree | Title                                                        |
 | ------ | ------------------------------------------------------------ |
 | EngD   | Wong, K., 2018. Towards a National 3D Mapping Product for Great Britain. EngD thesis, University College London. https://discovery.ucl.ac.uk/id/eprint/10047505/ |
 | MRes   | Wong, K., 2014. Designing 3D Geographic Information for Navigation Using Google Glass. MRes thesis, University College London. |
 | MSc    | Wong, K. 2012. Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information. MSc thesis, University College London. |
 | BSc    | Wong, K., 2011. Assessing Photovoltaic Potential in Hawaii. BSc thesis, University of Southampton |
+
 ### Talks
+
 | Year | Title                                                        |
 | ---- | ------------------------------------------------------------ |
 | 2019 | *Talk:* Mapping for Autonomous Driving: Opportunities and Challenges. Geospatial Seminar Series. University College London. London, UK. |
