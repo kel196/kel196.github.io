@@ -20,7 +20,7 @@ My overall approach focuses on two key principles: user-centric design, and data
 - Autonomous vehicles and intelligent transport systems
 - Catastrophe modelling
 
-A full list of publications **[can be found here.](#publications)**
+A full list of publications [can be found here.](#publications)
 
 ---
 ## Contact
