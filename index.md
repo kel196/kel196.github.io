@@ -5,13 +5,13 @@
 
 ![Dr Kelvin Wong](https://kelvinwong.co.uk/icon.png)
 
-**Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and fellow of [The Royal Geographical Society](https://www.rgs.org/).
+**Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
 At RMS, he works alongside a unique mix of climatologists, designers, seismologists, and mathematicians to design the best user experience for market-leading catastrophe modelling applications. Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. Find out more about Kelvin's research and publications [here](#publications).
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196). 
 
-An abridged version of his CV is available [here](https://kel196.github.io/CV/Kelvin%20Wong%20CV%20-%20October%202020.pdf).
+An abridged version of his CV is available [here](https://kelvinwong.co.uk/CV/Kelvin%20Wong%20CV%20-%20Two-page%20-%20Oct%202020.pdf).
 
 If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com).
 
