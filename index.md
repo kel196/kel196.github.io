@@ -156,8 +156,8 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Degree   | Title                                                        |
 | -------- | ------------------------------------------------------------ |
-| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K., (2018)<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
-| **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K., (2014)<br />*MRes thesis*, University College London. |
+| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K. (2018)<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
+| **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K. (2014)<br />*MRes thesis*, University College London. |
 | **MSc**  | **Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information**<br />Wong, K. (2012)<br />MSc thesis, University College London. |
 | **BSc**  | **Assessing Photovoltaic Potential in Hawaii**<br />Wong, K. (2011)<br />*BSc thesis*, University of Southampton |
 
