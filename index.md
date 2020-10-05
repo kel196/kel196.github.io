@@ -1,24 +1,26 @@
-# Dr Kelvin Ka Yin Wong FRGS CGeog(GIS)
+# KELVIN WONG
+### BSc MSc MRes EngD FRGS CGeog(GIS)
 ## Senior Product Manager at Risk Management Solutions
 
 
 ![Dr Kelvin Wong](http://kel196.github.io/icon.png)
 
-A 3D geospatial scientist, chartered geographer, and fellow of The Royal Geographical Society with over nine years of experience of business-oriented research. I enjoy working on the boundary of research and business, where I can innovate while addressing real-world and tangible challenges. Interdisciplinary in nature, I have worked in many different domains from transport planning to human behaviour understanding to autonomous vehicles. 
+**Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
-My overall approach focuses on two key principles: user-centric design, and data quality. I want to deliver high quality analysis that decision makers and stakeholders can trust, providing them with useful business insight for data-informed decisions by leveraging the power of geospatial data.
+At RMS, he works alongside a unique mix of climatologists, designers, seismologists, and mathematicians to design user experience for market-leading catastrophe modelling applications. His research to date applies to a wide range of social problems and questions, from autonomous vehicles to human behaviour understanding to transport planning. Find out more about Kelvin's research and publications [here](#publications).
 
-[View my LinkedIn profile](https://www.linkedin.com/in/wongkelvin)
+You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196). 
 
-[View my CV](https://kel196.github.io/CV/Kelvin%20Wong%20CV%20-%20October%202020.pdf)
+An abridged version of his CV is available [here](https://kel196.github.io/CV/Kelvin%20Wong%20CV%20-%20October%202020.pdf).
+
+If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [kelvinwong@outlook.com](mailto:kelvinwong@outlook.com).
 
 ---
 ## Research Interests
-- 3D GIS
-- Quality of 3D geospatial data
-- User requirements for 3D geospatial data
-- Autonomous vehicles and intelligent transport systems
-- Catastrophe modelling
+- **User requirements for national-scale 3D geographic information modelling**
+- **Spatial data quality of 3D geographic information** 
+- **Mapping for autonomous vehicles and intelligent transport systems**
+- **Catastrophe modelling**
 
 A full list of publications [can be found here.](#publications)
 
