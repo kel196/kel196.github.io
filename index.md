@@ -1,5 +1,5 @@
 # Dr Kelvin Ka Yin Wong
-### BSc MSc MRes EngD FRGS CGeog(GIS)
+### FRGS CGeog(GIS)
 
 ## Senior Product Manager at RMS
 
