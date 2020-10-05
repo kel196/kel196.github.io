@@ -60,6 +60,8 @@ Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
 
 **2008 – 2011** BSc in Geography. University of Southampton, UK.
 
+**2001 – 2008** Tiffin School. Kingston-Upon-Thames, UK.
+
 ---
 ## Accreditations and Memberships
 
@@ -69,11 +71,11 @@ Royal Geographical Society (with IBG). Accredited September 2020.
 
 **Fellow of the Royal Geographical Society**
 
-September 2020
+Since September 2020
 
 **Member of the Data Visualization Society**
 
-March 2020
+Since March 2020
 
 ---
 
