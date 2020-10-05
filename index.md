@@ -17,10 +17,10 @@ If you would like to discuss a research collaboration with Kelvin, or would like
 
 ---
 ## Research Interests
-- **User requirements for national-scale 3D geographic information modelling**
-- **Spatial data quality of 3D geographic information** 
-- **Mapping for autonomous vehicles and intelligent transport systems**
-- **Catastrophe modelling**
+- User requirements for national-scale 3D geographic information modelling
+- Spatial data quality of 3D geographic information 
+- Mapping for autonomous vehicles and intelligent transport systems
+- Catastrophe modelling
 
 A full list of publications [can be found here.](#publications)
 
@@ -133,45 +133,45 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 | **C-12** | **Road scene risk perception for intelligent vehicles using end-to-end affordance learning and visual reasoning**<br />Withanawasam, J., Javanmardi, E., Wong, K., Javanmardi, M., and Kamijo, S.<br />In *The 5th Asian Conference on Pattern Recognition (ACPR 2019)*, Auckland, New Zealand, 2019 [https://doi.org/10.1007/978-3-030-41404-7_60](https://doi.org/10.1007/978-3-030-41404-7_60) |
 | **C-11** | **Evaluating the Capability of OpenStreetMap for Estimating Vehicle Localization Error**<br />Wong, K., Javanmardi, E., Javanmardi, M., Gu, Y. and Kamijo, S.<br />In *2019 IEEE 22nd International Conference on Intelligent Transportation Systems (ITSC)*, Auckland, New Zealand, 2019<br />URL: [https://doi.org/10.1109/ITSC.2019.8917182](https://doi.org/10.1109/ITSC.2019.8917182) |
 | **C-10** | **Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope**<br />Motani, K., Wong, K. and Kamijo, S.<br />In *2019 IEEE 8th Global Conference on Consumer Electronics (GCCE)*, Osaka, Japan, 2019<br />URL: [https://doi.org/10.1109/GCCE46687.2019.9015384](https://doi.org/10.1109/GCCE46687.2019.9015384) <br />***Excellent Paper Award - Bronze Prize*** |
-| **C-9**  | **User Requirements Gathering for a National 3D Mapping Product in the United Kingdom**<br />Wong, K. and Ellul, C.<br />*13th 3D Geoinfo Conference 2018*, 1-2 October 2018, Delft, The Netherlands. |
+| **C-9**  | **User Requirements Gathering for a National 3D Mapping Product in the United Kingdom**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 13th 3D Geoinfo Conference 2018*, 1-2 October 2018, Delft, The Netherlands. |
 | **C-8**  | **Towards 4D City Models: Integrating Real Time Sensor Data into a 3D Web GIS**<br />Metcalfe, J., Ellul, C. and Wong, K.<br />In *Proceedings of the 26th GIS Research UK (GISRUK) Conference*, Leicester, UK 2018. |
-| **C-7**  | Wong, K. and Ellul, C., 2017. User Requirements Gathering for 3D Geographic Information in the United Kingdom. 12th 3D Geoinfo Conference 2017, 26-27 October 2017, Melbourne, Australia. |
-| **C-6**  | Wong, K. and Ellul, C., 2017. Investigating the use of the Euler characteristic as part of fitness-for-purpose assessment of 3D city models. In Proceedings of the 25th GIS Research UK (GISRUK) Conference, Manchester, UK. |
-| **C-5**  | Wong, K. and Ellul, C., 2016. Using Geometry-Based Metrics as Part of Fitness-for-Purpose Evaluations of 3D City Models. 11th 3D Geoinfo Conference 2016, 20-21 October 2016, Athens, Greece. |
-| **C-4**  | Wong, K. and Ellul, C., 2015. Assessing the Suitability of Using Google Glass in Designing 3D Geographic Information for Navigation. 10th 3D Geoinfo Conference 2016, 28-30 October 2015, Kuala Lumpur, Malaysia. |
-| **C-3**  | Wong, K.K.Y. and Ellul, C., 2015. Designing 3D geographic information for navigation using google glass. In Proceedings of the 23rd GIS Research UK (GISRUK) Conference, Leeds, UK (pp. 15-17). |
-| **C-2**  | Milner, J., Wong, K. and Ellul, C., 2014. Beyond Visualisation in 3D GIS. In Proceedings of the 23rd GIS Research UK (GISRUK) Conference, Leeds, UK. |
-| **C-1**  | Wong, K. and Ellul, C., 2013. Enhancing positioning of photovoltaic panels using 3D geographic information. In Proceedings of the 21st GIS Research UK (GISRUK) Conference, Liverpool, UK. |
+| **C-7**  | **User Requirements Gathering for 3D Geographic Information in the United Kingdom**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 12th 3D Geoinfo Conference 2017*, 26-27 October 2017, Melbourne, Australia. |
+| **C-6**  | **Investigating the use of the Euler characteristic as part of fitness-for-purpose assessment of 3D city models**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 25th GIS Research UK (GISRUK) Conference*, Manchester, UK. |
+| **C-5**  | **Using Geometry-Based Metrics as Part of Fitness-for-Purpose Evaluations of 3D City Models**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 11th 3D Geoinfo Conference 2016*, 20-21 October 2016, Athens, Greece. |
+| **C-4**  | **Assessing the Suitability of Using Google Glass in Designing 3D Geographic Information for Navigation**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 10th 3D Geoinfo Conference 2016*, 28-30 October 2015, Kuala Lumpur, Malaysia. |
+| **C-3**  | **Designing 3D Geographic Information for Navigation using Google Glass**<br />Wong, K.K.Y. and Ellul, C.<br />In *Proceedings of the 23rd GIS Research UK (GISRUK) Conference*, Leeds, UK, 15-17, 2015 |
+| **C-2**  | **Beyond Visualisation in 3D GIS**<br />Milner, J., Wong, K. and Ellul, C., 2014.<br />In *Proceedings of the 23rd GIS Research UK (GISRUK) Conference*, Leeds, UK, 2014 |
+| **C-1**  | **Enhancing Positioning of Photovoltaic Panels using 3D Geographic Information**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 21st GIS Research UK (GISRUK) Conference*, Liverpool, UK, 2013 |
 
 ### Industry Reports
 
 | Identifier | Title                                                        |
 | ---------- | ------------------------------------------------------------ |
-| **I-2**    | Wong, K.K.Y., 2015. Economic Value of 3D Geographic Information. EuroSDR and the Department of Computer Science, University College London, London, UK. URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
-| **I-1**    | Ellul, C. and Wong, K., 2015. Advances in 3DGIS, AGI foresight report 2020, the Association of Geographic Information. URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
+| **I-2**    | **Economic Value of 3D Geographic Information**<br />Wong, K.K.Y. <br />EuroSDR and the Department of Computer Science, University College London, London, UK, 2015<br />URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
+| **I-1**    | **Advances in 3DGIS**<br />Ellul, C. and Wong, K.<br />AGI foresight report 2020, the Association of Geographic Information, 2015<br />URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
 ### Theses
 
 | Degree   | Title                                                        |
 | -------- | ------------------------------------------------------------ |
-| **EngD** | Wong, K., 2018. Towards a National 3D Mapping Product for Great Britain. EngD thesis, University College London. [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
-| **MRes** | Wong, K., 2014. Designing 3D Geographic Information for Navigation Using Google Glass. MRes thesis, University College London. |
-| **MSc**  | Wong, K. 2012. Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information. MSc thesis, University College London. |
-| **BSc**  | Wong, K., 2011. Assessing Photovoltaic Potential in Hawaii. BSc thesis, University of Southampton |
+| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K., (2018)<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
+| **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K., (2014)<br />*MRes thesis*, University College London. |
+| **MSc**  | **Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information**<br />Wong, K. (2012)<br />MSc thesis, University College London. |
+| **BSc**  | **Assessing Photovoltaic Potential in Hawaii**<br />Wong, K. (2011)<br />*BSc thesis*, University of Southampton |
 
 ### Talks
 
 | Identifier | Title                                                        |
 | ---------- | ------------------------------------------------------------ |
-| **T-9**    | *Talk:* Mapping for Autonomous Driving: Opportunities and Challenges. Geospatial Seminar Series. University College London. London, UK. |
-| **T-8**    | *Workshop:* Introduction 3D GIS and BIM 2017 (1-day event), British Computer Society and Association for Geographic Information. University College London. London, UK. |
-| **T-7**    | *Talk:* Manipulating, Querying and Quantifying 3D Geographic Information Using the Oracle Spatial Java API, UK Oracle User Group Spatial & Graph SIG. London, UK. |
-| **T-6**    | *Workshop:* 3D GIS Workshop and Tutorial - GISRUK '16. GIS Research UK, University of Greenwich. London, UK. |
-| **T-5**    | *Talk:* What is 3D GIS? Talks for Undergraduates Geomatic Students from University of Applied Sciences and Arts Northwestern Switzerland. London, UK |
-| **T-4**    | *Panel:* 3D GIS — Is visualisation enough? GeoCom 2015: Resilient Futures, Warwick, UK. [https://www.agi.org.uk/about/resources/category/93-geocom-resilient-futures?download=161:geocom-2015-online-event-guide](https://www.agi.org.uk/about/resources/category/93-geocom-resilient-futures?download=161:geocom-2015-online-event-guide) |
-| **T-3**    | *Talk:* What Should We Map? — 3D GIS for navigation. An evening of 3D GIS, BCS (Location Information Specialist Group) & AGI (UK3DSIG). British Computer Society, London, UK. [https://www.agi.org.uk/component/civicrm/?task=civicrm/event/info&Itemid=242](https://www.agi.org.uk/component/civicrm/?task=civicrm/event/info&Itemid=242) |
-| **T-2**    | *Workshop:* 3D GIS Workshop and Tutorial - GISRUK '15. GIS Research UK, University of Leeds. Leeds, UK. [http://leeds.gisruk.org/workshops.html#3DGIS](http://leeds.gisruk.org/workshops.html#3DGIS) |
-| **T-1**    | *Talk:* Designing 3D GI for Navigation Using Google Glass. EuroSDR/ISPRS: Workshop for Capturing National Scale 3D Models, Ordnance Survey, Southampton, UK. [http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure](http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure) |
+| **T-9**    | *Talk:* **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Geospatial Seminar Series. University College London. London, UK, 2019. |
+| **T-8**    | *Workshop:* **Introduction 3D GIS and BIM 2017 (1-day event)**<br />British Computer Society and Association for Geographic Information. University College London. London, UK, 2017. |
+| **T-7**    | *Talk:* **Manipulating, Querying and Quantifying 3D Geographic Information Using the Oracle Spatial Java API**<br />UK Oracle User Group Spatial & Graph SIG. London, UK, 2017. |
+| **T-6**    | *Workshop:* **3D GIS Workshop and Tutorial - GISRUK '16**<br />GIS Research UK, University of Greenwich. London, UK, 2016. |
+| **T-5**    | *Talk:* **What is 3D GIS?** <br />Talks for Undergraduates Geomatic Students from University of Applied Sciences and Arts Northwestern Switzerland. London, UK, 2016. |
+| **T-4**    | *Panel:* **3D GIS — Is visualisation enough?** <br />GeoCom 2015: Resilient Futures, Warwick, UK, 2015.<br />URL: https://www.agi.org.uk/about/resources/category/93-geocom-resilient-futures?download=161:geocom-2015-online-event-guide](https://www.agi.org.uk/about/resources/category/93-geocom-resilient-futures?download=161:geocom-2015-online-event-guide) |
+| **T-3**    | *Talk:* **What Should We Map? — 3D GIS for navigation**<br />An evening of 3D GIS, BCS (Location Information Specialist Group) & AGI (UK3DSIG). British Computer Society, London, UK, 2015.<br />URL: [https://www.agi.org.uk/component/civicrm/?task=civicrm/event/info&Itemid=242](https://www.agi.org.uk/component/civicrm/?task=civicrm/event/info&Itemid=242) |
+| **T-2**    | *Workshop:* **3D GIS Workshop and Tutorial - GISRUK '15**<br />GIS Research UK, University of Leeds. Leeds, UK, 2015.<br />URL: [http://leeds.gisruk.org/workshops.html#3DGIS](http://leeds.gisruk.org/workshops.html#3DGIS) |
+| **T-1**    | *Talk:* **Designing 3D GI for Navigation Using Google Glass**<br />EuroSDR/ISPRS: Workshop for Capturing National Scale 3D Models, Ordnance Survey, Southampton, UK, 2014. <br />URL: [http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure](http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure) |
 
 ---
 
