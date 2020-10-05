@@ -5,7 +5,7 @@
 
 ![Dr Kelvin Wong](http://kel196.github.io/icon.png)
 
-**Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and fellow of [The Royal Geographical Society](https://www.rgs.org/).
+**Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
 At RMS, he works alongside a unique mix of climatologists, designers, seismologists, and mathematicians to design user experience for market-leading catastrophe modelling applications. His research to date applies to a wide range of social problems and questions, from autonomous vehicles to human behaviour understanding to transport planning. Find out more about Kelvin's research and publications [here](#publications).
 
@@ -13,7 +13,7 @@ You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and
 
 An abridged version of his CV is available [here](https://kel196.github.io/CV/Kelvin%20Wong%20CV%20-%20October%202020.pdf).
 
-If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [kelvinwong@outlook.com](mailto:kelvinwong@outlook.com).
+If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com).
 
 ---
 ## Research Interests
@@ -115,14 +115,14 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 ## Publications
 ### Refereed Academic Journals
 
-| Year | Title                                                        |
-| ---- | ------------------------------------------------------------ |
-| 2020 | Wong, K., Gu, Y., and Kamijo, S., 2020. Mapping for Autonomous Driving: Opportunities and Challenges. IEEE Intelligent Transportation Systems Magazine (ITSM). URL: [https://doi.org/10.1109/MITS.2020.3014152](https://doi.org/10.1109/MITS.2020.3014152) |
-| 2019 | Wong, K., Javanmardi, E., Javanmardi, M. and Kamijo, S., 2019. Estimating Autonomous Vehicle Localization Error Using 2D Geographic Information. ISPRS International Journal of Geo-Information, 8(6), p.288. URL: [https://doi.org/10.3390/ijgi8060288](https://doi.org/10.3390/ijgi8060288). Open Access |
-| 2018 | Wong, K. and Ellul, C., 2018. User Requirements Gathering for a National 3D Mapping Product in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W6. URL: [https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018](https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018). Open Access |
-| 2017 | Wong, K. and Ellul, C., 2017. User Requirements Gathering for 3D Geographic Information in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. IV-4/W5, 125-132. URL: [https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017](https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017). Open Access |
-|      | Wong, K. and Ellul, C., 2017. Assessing the Suitability of Using Google Glass in Designing 3D Geographic Information for Navigation. In Advances in 3D Geoinformation (pp. 409-422). Springer International Publishing. URL: [https://doi.org/10.1007/978-3-319-25691-7_23](https://doi.org/10.1007/978-3-319-25691-7_23). |
-| 2016 | Wong, K. and Ellul, C., 2016. Using Geometry-Based Metrics as Part of Fitness-for-Purpose Evaluations of 3D City Models. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, pp.129-136. URL: [https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016](https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016). Open Access |
+| Year    | Title                                                        |
+| ------- | ------------------------------------------------------------ |
+| **J-6** | **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Wong, K., Gu, Y., and Kamijo, S.<br />IEEE Intelligent Transportation Systems Magazine (ITSM), 2020<br />URL: [https://doi.org/10.1109/MITS.2020.3014152](https://doi.org/10.1109/MITS.2020.3014152) |
+| **J-5** | **Estimating Autonomous Vehicle Localization Error Using 2D Geographic Information**<br />Wong, K., Javanmardi, E., Javanmardi, M. and Kamijo, S.<br />ISPRS International Journal of Geo-Information, 8(6), p.288, 2019<br />URL: [https://doi.org/10.3390/ijgi8060288](https://doi.org/10.3390/ijgi8060288). Open Access |
+| **J-4** | Wong, K. and Ellul, C., 2018. User Requirements Gathering for a National 3D Mapping Product in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W6. URL: [https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018](https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018). Open Access |
+| **J-3** | Wong, K. and Ellul, C., 2017. User Requirements Gathering for 3D Geographic Information in the United Kingdom. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. IV-4/W5, 125-132. URL: [https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017](https://doi.org/10.5194/isprs-annals-IV-4-W5-125-2017). Open Access |
+| **J-2** | Wong, K. and Ellul, C., 2017. Assessing the Suitability of Using Google Glass in Designing 3D Geographic Information for Navigation. In Advances in 3D Geoinformation (pp. 409-422). Springer International Publishing. URL: [https://doi.org/10.1007/978-3-319-25691-7_23](https://doi.org/10.1007/978-3-319-25691-7_23). |
+| **J-1** | Wong, K. and Ellul, C., 2016. Using Geometry-Based Metrics as Part of Fitness-for-Purpose Evaluations of 3D City Models. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, pp.129-136. URL: [https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016](https://doi.org/10.5194/isprs-annals-IV-2-W1-129-2016). Open Access |
 
 ### Industry Reports
 
