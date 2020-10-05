@@ -1,7 +1,5 @@
-# Dr Kelvin Ka Yin Wong
-### FRGS CGeog(GIS)
-
-## Senior Product Manager at RMS
+# Dr Kelvin Ka Yin Wong FRGS CGeog(GIS)
+## Senior Product Manager at Risk Management Solutions
 
 
 ![Dr Kelvin Wong](http://kel196.github.io/icon.png)
