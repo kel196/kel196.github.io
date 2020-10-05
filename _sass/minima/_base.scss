@@ -10,7 +10,6 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  font-family: 'IBM Plex Mono', monospace;
 }
 
 hr {
@@ -260,7 +259,6 @@ pre {
  * Tables
  */
 table {
-  font-family: 'IBM Plex Mono', monospace;
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
