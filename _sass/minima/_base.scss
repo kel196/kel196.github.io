@@ -1,6 +1,6 @@
 html {
   font-size: $base-font-size;
-  font-family: 'Noto Sans JP', sans-serif;
+  /* font-family: 'Noto Sans JP', sans-serif; */
 }
 
 /**
@@ -28,9 +28,8 @@ h1 {
  * Basic styling
  */
 body {
-  /*font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;*/
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height};
-  font-family: 'Noto Sans JP', sans-serif;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;*/
+  /* font-family: 'Noto Sans JP', sans-serif; */
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
