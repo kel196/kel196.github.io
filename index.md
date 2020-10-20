@@ -13,7 +13,7 @@ Find out more about Kelvin's research and publications [here](#publications).
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196). 
 
-An abridged version of his CV is available [here](https://kelvinwong.co.uk/CV/Kelvin%20Wong%20CV%20-%20Two-page%20-%20Oct%202020.pdf).
+An abridged version of his CV is available [here](https://kelvinwong.co.uk/CV/Wong_20201020.pdf).
 
 If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com).
 
