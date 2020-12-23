@@ -28,7 +28,7 @@ A full list of publications [can be found here.](#publications)
 ## Contact
 [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com)
 
-Peninsular House, 30 Monument Street, London EC3R 8NB United Kingdom
+The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Experience
