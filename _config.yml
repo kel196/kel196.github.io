@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: https://github.com/kel196/kel196.github.io/
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kelvin Wong
-title: Senior Product Manager
+title: BSc MSc MRes EngD CGeog(GIS) FRGS
 email: Kelvin.Wong@rms.com
 # website: www.kelvinwong.co.uk
 
