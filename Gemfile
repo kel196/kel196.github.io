@@ -1,7 +1,6 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-gemspec
-
-gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
-gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
+# A simple Ruby Gem to bootstrap dependencies for setting up and
+# maintaining a local Jekyll environment in sync with GitHub Pages
+# https://github.com/github/pages-gem
+gem 'github-pages'

@@ -1,322 +1,210 @@
-# minima
+# Mixyll [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JT-red.svg)](https://jekyll-themes.com/mixyll/)
 
-*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
+[Mixyll](https://mixyll.saikiransripada.com/)
 
-***Disclaimer:** The information here may vary depending on the version you're using. Please refer to the `README.md` bundled
-within the theme-gem for information specific to your version or by pointing your browser to the Git tag corresponding to your
-version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md*  
-*Running `bundle show minima` will provide you with the local path to your current theme version.*
+![Mixyll screenshot](https://mixyll.saikiransripada.com/screenshot.png)
 
+Mixyll (minimal version of [Pixyll](https://github.com/johno/pixyll)) is a simple, beautiful theme for Jekyll theme that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 
-[Theme preview](https://jekyll.github.io/minima/)
+It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
 
-![minima theme preview](/screenshot.png)
+This Jekyll theme was originally crafted by [John Otander](http://johnotander.com) as [Pixyll](https://github.com/johno/pixyll) and modified by [Sai Kiran Sripada](https://www.saikiransripada.com/).
 
-## Installation
+## Getting Started
 
-Add this line to your Jekyll site's Gemfile:
+If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
-```ruby
-gem "minima"
+```
+$ git clone git@github.com:saikiransripada/mixyll.git
+$ cd mixyll
+$ gem install bundler # If you don't have bundler installed
+$ bundle install
 ```
 
-And then execute:
+#### Verify your Jekyll version
 
-    $ bundle
+It's important to also check your version of Jekyll since this project uses new `baseurl` features that are [only supported in 3.3+](https://jekyllrb.com/news/2016/10/06/jekyll-3-3-is-here/).
 
+### Fork, then clone
 
-## Contents At-A-Glance
-
-Minima has been scaffolded by the `jekyll new-theme` command and therefore has all the necessary files and directories to have a new Jekyll site up and running with zero-configuration.
-
-### Layouts
-
-Refers to files within the `_layouts` directory, that define the markup for your theme.
-
-  - `default.html` &mdash; The base layout that lays the foundation for subsequent layouts. The derived layouts inject their contents into this file at the line that says ` {{ content }} ` and are linked to this file via [FrontMatter](https://jekyllrb.com/docs/frontmatter/) declaration `layout: default`.
-  - `home.html` &mdash; The layout for your landing-page / home-page / index-page. [[More Info.](#home-layout)]
-  - `page.html` &mdash; The layout for your documents that contain FrontMatter, but are not posts.
-  - `post.html` &mdash; The layout for your posts.
-
-#### Home Layout
-
-`home.html` is a flexible HTML layout for the site's landing-page / home-page / index-page. <br/>
-
-##### *Main Heading and Content-injection*
-
-From Minima v2.2 onwards, the *home* layout will inject all content from your `index.md` / `index.html` **before** the **`Posts`** heading. This will allow you to include non-posts related content to be published on the landing page under a dedicated heading. *We recommended that you title this section with a Heading2 (`##`)*.
-
-Usually the `site.title` itself would suffice as the implicit 'main-title' for a landing-page. But, if your landing-page would like a heading to be explicitly displayed, then simply define a `title` variable in the document's front matter and it will be rendered with an `<h1>` tag.
-
-##### *Post Listing*
-
-This section is optional from Minima v2.2 onwards.<br/>
-It will be automatically included only when your site contains one or more valid posts or drafts (if the site is configured to `show_drafts`).
-
-The title for this section is `Posts` by default and rendered with an `<h2>` tag. You can customize this heading by defining a `list_title` variable in the document's front matter.
+Fork the repo, and then clone it so you've got the code locally.
 
 
-### Includes
+### Modify the `_config.yml`
 
-Refers to snippets of code within the `_includes` directory that can be inserted in multiple layouts (and another include-file as well) within the same theme-gem.
+The `_config.yml` located in the root of the Mixyll directory contains all of the configuration details
+for the Jekyll site. The defaults are:
 
-  - `disqus_comments.html` &mdash; Code to markup disqus comment box.
-  - `footer.html` &mdash; Defines the site's footer section.
-  - `google-analytics.html` &mdash; Inserts Google Analytics module (active only in production environment).
-  - `head.html` &mdash; Code-block that defines the `<head></head>` in *default* layout.
-  - `custom-head.html` &mdash; Placeholder to allow users to add more metadata to `<head />`.
-  - `header.html` &mdash; Defines the site's main header section. By default, pages with a defined `title` attribute will have links displayed here.
-  - `social.html` &mdash; Renders social-media icons based on the `minima:social_links` data in the config file.
+```yml
+# Site settings
+title: Mixyll
+email: your_email@example.com
+author: Sai Kiran Sripada
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl: ""
+url: "https://mixyll.saikiransripada.com/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+```
+
+### Jekyll Serve
+
+Then, start the Jekyll Server. I always like to give the `--watch` option so it updates the generated HTML when I make changes.
+
+```
+$ jekyll serve --watch
+```
+
+Now you can navigate to `localhost:4000` in your browser to see the site.
+
+### Using Github Pages
+
+You can host your Jekyll site for free with Github Pages. [Click here](https://pages.github.com/) for more information.
+
+#### A configuration tweak if you're using a gh-pages sub-folder
+
+In addition to your github-username.github.io repo that maps to the root url, you can serve up sites by using a gh-pages branch for other repos so they're available at github-username.github.io/repo-name.
+
+This will require you to modify the `_config.yml` like so:
+
+```yml
+# Site settings
+title: Repo Name
+email: your_email@example.com
+author: Sai Kiran Sripada
+description: "Repo description"
+baseurl: "/repo-name"
+url: "http://github-username.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+```
+
+This will ensure that the the correct relative path is constructed for your assets and posts. Also, in order to run the project locally, you will need to specify the blank string for the baseurl: `$ jekyll serve --baseurl ''`.
+
+##### If you don't want the header to link back to the root url
+
+You will also need to tweak the header include `/{{ site.baseurl }}`:
+
+```html
+<header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav">
+        {% include navigation.html %}
+      </nav>
+    </div>
+  </div>
+</header>
+```
+
+A relevant Jekyll Github Issue: <https://github.com/jekyll/jekyll/issues/332>
+
+### Contact Form
+
+The contact form uses <http://formspree.io>. It will require you to fill the form out and submit it once, before going live, to confirm your email.
+
+More setup instructions and advanced options can be found at [http://formspree.io](http://formspree.io/)
 
 
-### Sass
+### Disqus
 
-Refers to `.scss` files within the `_sass` directory that define the theme's styles.
+To configure Disqus, set up a [Disqus site](https://disqus.com/admin/create/) with the same name as your site. Then, in `_config.yml`, edit the `disqus_shortname` value to enable Disqus.
 
-  - `minima/skins/classic.scss` &mdash; The "classic" skin of the theme. *Used by default.*
-  - `minima/initialize.scss` &mdash; A component that defines the theme's *skin-agnostic* variable defaults and sass partials.
-    It imports the following components (in the following order):
-    - `minima/custom-variables.scss` &mdash; A hook that allows overriding variable defaults and mixins. (*Note: Cannot override styles*)
-    - `minima/_base.scss` &mdash; Sass partial for resets and defines base styles for various HTML elements.
-    - `minima/_layout.scss` &mdash; Sass partial that defines the visual style for various layouts.
-    - `minima/custom-styles.scss` &mdash; A hook that allows overriding styles defined above. (*Note: Cannot override variables*)
+### Customizing the CSS
 
-Refer the [skins](#skins) section for more details.
+All variables can be found in the `_sass/_variables.scss` file, toggle these as you'd like to change the look and feel of Mixyll.
 
+### Page Animation
 
-### Assets
+If you would like to add a [fade-in-down effect](http://daneden.github.io/animate.css/), you can add `animated: true` to your `_config.yml`.
 
-Refers to various asset files within the `assets` directory.
+### AnchorJS
 
-  - `assets/css/style.scss` &mdash; Imports sass files from within the `_sass` directory and gets processed into the theme's
-    stylesheet: `assets/css/styles.css`.
-  - `assets/minima-social-icons.svg` &mdash; A composite SVG file comprised of *symbols* related to various social-media icons.
-    This file is used as-is without any processing. Refer [section on social networks](#social-networks) for its usage.
+[AnchorJS](https://github.com/bryanbraun/anchorjs): _A JavaScript utility for adding deep anchor links to existing page content. AnchorJS is lightweight, accessible, and has no dependencies._ You can turn it on by toggling `enable_anchorjs`. Because it offers many ways for customization, tweaks should be done in `_includes/footer.html`. Default settings after turning AnchorJS on are:
 
+```html
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>
+```
 
-### Plugins
+See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more options.
 
-Minima comes with [`jekyll-seo-tag`](https://github.com/jekyll/jekyll-seo-tag) plugin preinstalled to make sure your website gets the most useful meta tags. See [usage](https://github.com/jekyll/jekyll-seo-tag#usage) to know how to set it up.
+### Web analytics and search engines
 
+You can measure visits to your website either by using [Google Analytics](https://www.google.com/analytics/) tracking embed or the more advanced [Google Tag Manager](https://www.google.com/analytics/tag-manager/) container.
+* For Google Analytics set up the value for `google_analytics`, it should be something like `google_analytics: UA-XXXXXXXX-X`.
+* For Google Tag Manager set up the value for `google_tag_manager`, it should be something like: `google_tag_manager: GTM-XXXXX`.
+* _Do not_ set both of above methods because this will cause conflicts and skew your reporting data.
+* Remember that you need to properly configure the GTM container in its admin panel if you want it to work. More info is available in [GTM's docs](https://www.google.com/analytics/tag-manager/resources/).
 
-## Usage
-
-Have the following line in your config file:
+Your website is, by default, set to be allowed for crawling and indexing by search engines. (Unless you made yourself a custom robots.txt file). You can use front matter settings on each page to control how search engines will it. Sometimes you may want to exclude a particular page from indexing or forbid Google to store a copy of your page in its cache. It is up to you. Use the `meta_robots` frontmatter key and assign values based on [this table](https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag?hl=en#valid-indexing--serving-directives). Some examples:
 
 ```yaml
-theme: minima
+# exclude page from index
+meta_robots: noindex
+
+# allow indexing, disallow caching
+meta_robots: noarchive
+
+# allow indexing, disallow crawling links
+meta_robots: nofollow
+
+# disallow indexing, follow links
+meta_robots: noindex,follow
 ```
 
+In order to get more information about your website's status in search engines, you can register it in [Google Search Console](https://www.google.com/webmasters/tools/home) and/or [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster). Both these tools will ask you to authorize your website with them and there are couple of ways to do that. Mixyll supports verification via meta tags - just fill in values for `google_verification` and/or `bing_verification` in `_config.yml`, the verification strings and meta tags will then be added automatically.
 
-### Customizing templates
+If search engine optimization is your thing, you can also set up `meta_description` values for each page/post. By default Mixyll uses `summary` to populate the `<meta name="description" content="...">` tag and falls back to `description` from `_config.yml` if `summary` is not present in page/post's front matter. The `summary` is also used for generating Open Graph tags. Why would you want to use a dedicated variable for meta description? Because character limit to properly display this description in search results (as a snippet) is way smaller than in Open Graph. It is recommended to keep it at 155-160 characters, for more in-depth info read [this article](https://moz.com/blog/i-cant-drive-155-meta-descriptions-in-2015).
 
-To override the default structure and style of minima, simply create the concerned directory at the root of your site, copy the file you wish to customize to that directory, and then edit the file.
-e.g., to override the [`_includes/head.html `](_includes/head.html) file to specify a custom style path, create an `_includes` directory, copy `_includes/head.html` from minima gem folder to `<yoursite>/_includes` and start editing that file.
+And lastly - if you happen to write in language other than English be sure to change `og_locale` in `_config.yml` to reflect it.
 
-The site's default CSS has now moved to a new place within the gem itself, [`assets/css/style.scss`](assets/css/style.scss).
+### Enjoy
 
-In Minima 3.0, if you only need to customize the colors of the theme, refer to the subsequent section on skins. To have your
-*CSS overrides* in sync with upstream changes released in future versions, you can collect all your overrides for the Sass
-variables and mixins inside a sass file placed at `_sass/minima/custom-variables.scss` and all other overrides inside a sass file
-placed at path `_sass/minima/custom.scss`.
+I hope you enjoy using Mixyll. If you encounter any issues, please feel free to let me know by creating an [issue](https://github.com/saikiransripada/mixyll/issues). I'd love to help.
 
-You need not maintain entire partial(s) at the site's source just to override a few styles. However, your stylesheet's primary
-source (`assets/css/style.scss`) should contain the following:
+## Upgrading Mixyll
 
-  - Front matter dashes at the very beginning (can be empty).
-  - Directive to import a skin.
-  - Directive to import the base styles (automatically loads overrides when available).
+Mixyll is always being improved by its users, so sometimes one may need to upgrade.
 
-Therefore, your `assets/css/style.scss` should contain the following at minimum:
+#### Ensure there's an upstream remote
 
-```sass
----
----
-
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
-```
-
-#### Skins
-
-Minima 3.0 supports defining and switching between multiple color-palettes (or *skins*).
+If `git remote -v` doesn't have an upstream listed, you can do the following to add it:
 
 ```
-.
-├── minima.scss
-└── minima
-    └── _syntax-highlighting.scss
+git remote add upstream https://github.com/saikiransripada/mixyll.git
 ```
 
-
-A skin is a Sass file placed in the directory `_sass/minima/skins` and it defines the variable defaults related to the "color"
-aspect of the theme. It also embeds the Sass rules related to syntax-highlighting since that is primarily related to color and
-has to be adjusted in harmony with the current skin.
-
-The default color palette for Minima is defined within `_sass/minima/skins/classic.scss`. To switch to another available skin,
-simply declare it in the site's config file. For example, to activate `_sass/minima/skins/dark.scss` as the skin, the setting
-would be:
-
-```yaml
-minima:
-  skin: dark
-```
-
-As part of the migration to support skins, some existing Sass variables have been retired and some **have been redefined** as
-summarized in the following table:
-
-Minima 2.0      | Minima 3.0
---------------- | ----------
-`$brand-color`  | `$link-base-color`
-`$grey-*`       | `$brand-*`
-`$orange-color` | *has been removed*
-
-##### Available skins
-
-- classic
-- dark
-- solarized
-- solarized-dark
-
-### Customize navigation links
-
-This allows you to set which pages you want to appear in the navigation area and configure order of the links.
-
-For instance, to only link to the `about` and the `portfolio` page, add the following to your `_config.yml`:
-
-```yaml
-header_pages:
-  - about.md
-  - portfolio.md
-```
-
-
-### Change default date format
-
-You can change the default date format by specifying `site.minima.date_format`
-in `_config.yml`.
+#### Pull in the latest changes
 
 ```
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+git pull upstream master
 ```
 
+There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
 
-### Extending the `<head />`
+## Thanks to the following
 
-You can *add* custom metadata to the `<head />` of your layouts by creating a file `_includes/custom-head.html` in your source directory. For example, to add favicons:
-
-1. Head over to [https://realfavicongenerator.net/](https://realfavicongenerator.net/) to add your own favicons.
-2. [Customize](#customization) default `_includes/custom-head.html` in your source directory and insert the given code snippet.
-
-
-### Enabling comments (via Disqus)
-
-Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post.
-
-To enable it, add the following lines to your Jekyll site:
-
-```yaml
-  disqus:
-    shortname: my_disqus_shortname
-```
-
-You can find out more about Disqus' shortnames [here](https://help.disqus.com/installation/whats-a-shortname).
-
-Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`
-
-If you don't want to display comments for a particular post you can disable them by adding `comments: false` to that post's YAML Front Matter.
-
-:warning: `url`, e.g. `https://example.com`, must be set in you config file for Disqus to work.
-
-### Author Metadata
-
-From `Minima-3.0` onwards, `site.author` is expected to be a mapping of attributes instead of a simple scalar value:
-
-```yaml
-author:
-  name: John Smith
-  email: "john.smith@foobar.com"
-```
-
-To migrate existing metadata, update your config file and any reference to the object in your layouts and includes as summarized below:
-
-Minima 2.x    | Minima 3.0
-------------- | -------------------
-`site.author` | `site.author.name`
-`site.email`  | `site.author.email`
-
-
-### Social networks
-
-You can add links to the accounts you have on other sites, with respective icon, by adding one or more of the following options in your config.
-From `Minima-3.0` onwards, the usernames are to be nested under `minima.social_links`, with the keys being simply the social-network's name:
-
-```yaml
-minima:
-  social_links:
-    twitter: jekyllrb
-    github: jekyll
-    stackoverflow: "11111"
-    dribbble: jekyll
-    facebook: jekyll
-    flickr: jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    telegram: jekyll
-    microdotblog: jekyll
-    keybase: jekyll
-
-    mastodon:
-     - username: jekyll
-       instance: example.com
-     - username: jekyll2
-       instance: example.com
-
-    gitlab:
-     - username: jekyll
-       instance: example.com
-     - username: jekyll2
-       instance: example.com
-
-    youtube: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    youtube_channel_name: CloudCannon
-```
-
-
-### Enabling Google Analytics
-
-To enable Google Analytics, add the following lines to your Jekyll site:
-
-```yaml
-  google_analytics: UA-NNNNNNNN-N
-```
-
-Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
-
-### Enabling Excerpts on the Home Page
-
-To display post-excerpts on the Home Page, simply add the following to your `_config.yml`:
-
-```yaml
-show_excerpts: true
-```
-
+* [Pixyll](https://github.com/johno/pixyll)
+* [BASSCSS](http://basscss.com)
+* [Jekyll](http://jekyllrb.com)
+* [Refills](http://refills.bourbon.io/)
+* [Solarized](http://ethanschoonover.com/solarized)
+* [Animate.css](http://daneden.github.io/animate.css/)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `script/bootstrap`.
-
-To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
