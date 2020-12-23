@@ -48,9 +48,21 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  **Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
+| # this will include new lines to allow paragraphs
+Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions. At RMS, he works alongside a unique mix of climatologists, seismologists, and mathematicians to design the best user experience for market-leading catastrophe modelling applications. 
+| # this will include new lines to allow paragraphs
+Find out more about Kelvin's research and publications [here](#publications).
+| # this will include new lines to allow paragraphs
+You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196). 
+| # this will include new lines to allow paragraphs
+An abridged version of his CV is available [here](https://kelvinwong.co.uk/CV/Wong_20201020.pdf).
+| # this will include new lines to allow paragraphs
+If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com).
+| # this will include new lines to allow paragraphs  
+#  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
