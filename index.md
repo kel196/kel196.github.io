@@ -1,8 +1,7 @@
 # KELVIN WONG
+---
 ### BSc MSc MRes EngD CGeog(GIS) FRGS
 ## Senior Product Manager at Risk Management Solutions
-
-
 ![Dr Kelvin Wong](https://kelvinwong.co.uk/icon.png)
 
 **Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
