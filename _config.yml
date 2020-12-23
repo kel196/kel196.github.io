@@ -12,9 +12,10 @@ logo: /icon.png
 email: kelvinwong@outlook.com
 github: is\_project\_page:false
 minima:
+  skin: shinkansen
   social_links:
     twitter: kel_196
-    github: kel196
+#     github: kel196
 #     stackoverflow: "11111"
 #     dribbble: jekyll
 #     facebook: jekyll
