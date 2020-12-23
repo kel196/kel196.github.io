@@ -1,6 +1,5 @@
 # KELVIN WONG
 ### BSc MSc MRes EngD CGeog(GIS) FRGS
-## Senior Product Manager at Risk Management Solutions
 ---
 ![Dr Kelvin Wong](https://kelvinwong.co.uk/icon.png)
 
