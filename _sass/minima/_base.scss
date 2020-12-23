@@ -1,6 +1,5 @@
 html {
   font-size: $base-font-size;
-  /* font-family: 'Noto Sans JP', sans-serif; */
 }
 
 /**
@@ -11,17 +10,9 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+
 }
 
-hr {
-  border-top: 0.2em solid #0F4C81;
-}
-
-h1 {
-  font-weight: 900;
-  font-size: 2.5em;
-  color:#00000;
-}
 
 
 /**
@@ -29,7 +20,6 @@ h1 {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  /* font-family: 'Noto Sans JP', sans-serif; */
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
