@@ -1,130 +1,30 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# Site Settings
+title: BSc MSc MRes EngD FRGS CGeog(GIS)
+# description: > # Text below
+#   A 3D geospatial scientist, chartered geographer, and fellow of The Royal Geographical Society with over nine years of experience of business-oriented research. I enjoy working on the boundary of research and business, where I can innovate while addressing real-world and tangible challenges. Interdisciplinary in nature, I have worked in many different domains from transport planning to human behaviour understanding to autonomous vehicles. 
+#   <br><br>
+#   My overall approach focuses on two key principles: user-centric design, and data quality. I want to deliver high quality analysis that decision makers and stakeholders can trust, providing them with useful business insight for data-informed decisions by leveraging the power of geospatial data.
+#   <br><br>
+#   <a href="https://www.linkedin.com/in/wongkelvin">View My LinkedIn Profile</a>
+#   <br><br>
+#   <a href="https://1drv.ms/b/s!AuQRk-S_lsLklLMRah3udAf_1W2CxQ?e=2Tb6ZS" target="_blank">Download CV Here (PDF)</a>
+logo: /icon.png
+email: kelvinwong@outlook.com
+github: is\_project\_page:false
+minima:
+  social_links:
+    twitter: kel_196
+    github: kel196
+#     stackoverflow: "11111"
+#     dribbble: jekyll
+#     facebook: jekyll
+#     flickr: jekyll
+#     instagram: jekyll
+    linkedin: wongkelvin
+#     pinterest: jekyll
+#     telegram: jekyll
+#     microdotblog: jekyll
+#     keybase: jekyll
 
-# Content configuration version
-version: 2
-
-# Personal info
-name: Kelvin Wong
-title: BSc MSc MRes EngD CGeog(GIS) FRGS
-email: Kelvin.Wong@rms.com
-# website: www.kelvinwong.co.uk
-
-# Dark Mode (true/false/never)
-darkmode: never
-
-# Social links
-twitter_username: kel_196
-# github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-linkedin_username: wongkelvin
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-orcid_username: 0000-0001-9541-4131
-
-# Additional icon links
-additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-about_title: About
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-    **Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
-    | # this will include new lines to allow paragraphs
-    This is a second paragraph.
-    | # this will include new lines to allow paragraphs
-    | # this will include new lines to allow paragraphs
-    This is a third paragraph.
-
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-# Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+# Build Settings
+theme: jekyll-theme-minimal
