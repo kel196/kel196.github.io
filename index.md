@@ -5,11 +5,11 @@
 
 **Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
-Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions. At RMS, he works alongside a unique mix of climatologists, seismologists, and mathematicians to design the best user experience for market-leading catastrophe modelling applications. 
+Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions. At RMS, he works alongside a unique mix of climatologists, seismologists, and mathematicians to design the best user experience for market-leading catastrophe modelling applications.
 
 Find out more about Kelvin's research and publications [here](#publications).
 
-You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196). 
+You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
 
 An abridged version of his CV is available [here](https://kelvinwong.co.uk/CV/Wong_20201020.pdf).
 
@@ -18,7 +18,7 @@ If you would like to discuss a research collaboration with Kelvin, or would like
 ---
 ## Research Interests
 - User requirements for national-scale 3D geographic information modelling
-- Spatial data quality of 3D geographic information 
+- Spatial data quality of 3D geographic information
 - Mapping for autonomous vehicles and intelligent transport systems
 - Catastrophe modelling
 
@@ -81,6 +81,10 @@ Since March 2020
 
 Since September 2020
 
+**Co-convenor of the UK 3D GIS Special Interest Group**
+
+Since February 2014
+
 ---
 
 ## Awards, Honours, and Distinctions
@@ -112,8 +116,8 @@ The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The awa
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.
 
 ---
-## Volunteering 
-**Sep 2015 – Feb 2016** PhD teacher, The Brilliant Club 
+## Volunteering
+**Sep 2015 – Feb 2016** PhD teacher, The Brilliant Club
 
 **Jan 2015 – Jan 2017** IT Support, Age Concern
 
@@ -170,6 +174,7 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Identifier | Title                                                        |
 | ---------- | ------------------------------------------------------------ |
+| **T-10**    | *Panel:* **Communicating and Understanding Risk in Dynamic Situations**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Fireside Chat. Virtual, 2021. |
 | **T-9**    | *Talk:* **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Geospatial Seminar Series. University College London. London, UK, 2019. |
 | **T-8**    | *Workshop:* **Introduction 3D GIS and BIM 2017 (1-day event)**<br />British Computer Society and Association for Geographic Information. University College London. London, UK, 2017. |
 | **T-7**    | *Talk:* **Manipulating, Querying and Quantifying 3D Geographic Information Using the Oracle Spatial Java API**<br />UK Oracle User Group Spatial & Graph SIG. London, UK, 2017. |
@@ -182,4 +187,4 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ---
 
-Last Updated: 23 December 2020
+Last Updated: 22 February 2020
