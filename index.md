@@ -138,7 +138,7 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Identifier | Title                                                        |
 | -------- | ------------------------------------------------------------ |
-| **C-15** | **Threat Analysis of an Autonomous Vehicle Architecture**<br />Dang, Q.A., Khondoker, R., Wong, K., and Kamijo, S. <br />*2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 19-20 December 2020* |
+| **C-15** | **Threat Analysis of an Autonomous Vehicle Architecture**<br />Dang, Q.A., Khondoker, R., Wong, K., and Kamijo, S. <br />*2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 19-20 December 2020*<br />URL: https://doi.org/10.1109/STI50764.2020.9350512 |
 | **C-14** | **3rd BIM/GIS Integration Workshop and 15th 3DGeoInfo Conference 2020 - Preface**<br />Wong, K., Ellul, C., Morley, J., Home, R., and Kalantari, M.<br />*ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, Volume VI-4/W1-2020, 1–1, 2020.<br />URL: [https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-1-2020](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-1-2020) |
 | **C-13** | **3rd BIM/GIS Integration Workshop and 15th 3DGeoInfo Conference 2020 - Preface**<br />Wong, K., Ellul, C., Morley, J., Home, R., and Kalantari, M.<br />*The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, Volume XLIV-4/W1-2020, 1–1, 2020<br />URL: [https://doi.org/10.5194/isprs-archives-XLIV-4-W1-2020-1-2020](https://doi.org/10.5194/isprs-archives-XLIV-4-W1-2020-1-2020) |
 | **C-12** | **Road scene risk perception for intelligent vehicles using end-to-end affordance learning and visual reasoning**<br />Withanawasam, J., Javanmardi, E., Wong, K., Javanmardi, M., and Kamijo, S.<br />In *The 5th Asian Conference on Pattern Recognition (ACPR 2019)*, Auckland, New Zealand, 2019 [https://doi.org/10.1007/978-3-030-41404-7_60](https://doi.org/10.1007/978-3-030-41404-7_60) |
@@ -158,6 +158,7 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Identifier | Title                                                        |
 | ---------- | ------------------------------------------------------------ |
+| **I-3**    | **Communicating and Understanding Risk in Dynamic Situations**<br />Thomson, T., Forde, W., and Wong, K.<br />Royal Geographical Society case study, 2021<br />URL: https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk |
 | **I-2**    | **Economic Value of 3D Geographic Information**<br />Wong, K.K.Y. <br />EuroSDR and the Department of Computer Science, University College London, London, UK, 2015<br />URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
 | **I-1**    | **Advances in 3DGIS**<br />Ellul, C. and Wong, K.<br />AGI foresight report 2020, the Association of Geographic Information, 2015<br />URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
@@ -187,4 +188,4 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ---
 
-Last Updated: 22 February 2020
+Last Updated: 24 March 2021
