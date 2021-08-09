@@ -1,7 +1,6 @@
-# Kelvin Wong
-### BSc MSc MRes EngD CGeog(GIS) FRGS
----
-**Dr Kelvin Wong** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
+# Dr Kelvin Wong
+## About Me
+**Dr Kelvin Wong** CGeog(GIS) FRGS is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions. At RMS, he works alongside a unique mix of climatologists, seismologists, and mathematicians to design the best user experience for market-leading catastrophe modelling applications.
 
@@ -9,18 +8,7 @@ Find out more about Kelvin's research and publications [here](#publications).
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
 
-An abridged version of his CV is available [here](https://kelvinwong.co.uk/CV/Wong_20201020.pdf).
-
 If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com).
-
----
-## Research Interests
-- User requirements for national-scale 3D geographic information modelling
-- Spatial data quality of 3D geographic information
-- Mapping for autonomous vehicles and intelligent transport systems
-- Catastrophe modelling
-
-A full list of publications [can be found here.](#publications)
 
 ---
 ## Contact
@@ -82,6 +70,10 @@ Since September 2020
 **Co-convenor of the UK 3D GIS Special Interest Group**
 
 Since February 2014
+
+**Member of the Association of Geographic Information**
+
+Since September 2011
 
 ---
 
@@ -164,10 +156,10 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Degree   | Title                                                        |
 | -------- | ------------------------------------------------------------ |
-| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K. (2018)<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
-| **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K. (2014)<br />*MRes thesis*, University College London. |
-| **MSc**  | **Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information**<br />Wong, K. (2012)<br />*MSc thesis*, University College London. |
-| **BSc**  | **Assessing Photovoltaic Potential in Hawaii**<br />Wong, K. (2011)<br />*BSc thesis*, University of Southampton |
+| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K., 2018<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
+| **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K., 2014<br />*MRes thesis*, University College London. |
+| **MSc**  | **Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information**<br />Wong, K., 2012<br />*MSc thesis*, University College London. |
+| **BSc**  | **Assessing Photovoltaic Potential in Hawaii**<br />Wong, K., 2011<br />*BSc thesis*, University of Southampton |
 
 ### Talks
 
@@ -186,4 +178,4 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ---
 
-Last Updated: 24 March 2021
+Last Updated: 09 August 2021
