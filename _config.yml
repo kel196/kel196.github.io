@@ -27,5 +27,9 @@ minima:
 #     microdotblog: jekyll
 #     keybase: jekyll
 
+# Google Analytics
+google_analytics: UA-48477520-1
+
 # Build Settings
 theme: jekyll-theme-minimal
+
