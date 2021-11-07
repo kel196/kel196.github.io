@@ -310,10 +310,6 @@ h4 {
   background-color: #4F565C;
 }
 
-th:empty {
-  visibility: hidden;
-}
-
-td:empty {
-  visibility: hidden;
+th {
+  display: none;
 }
