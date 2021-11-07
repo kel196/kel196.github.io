@@ -61,7 +61,8 @@ Distinction. Geographic Information Science, Department of Civil, Environmental,
 **Second Year Exchange Program | University of York, Canada | Jan 2010 to Apr 2010**<br />
 Physical Geography, Department of Geography<br />
 
-**Bachelor of Science | University of Southampton, UK | Sep 2008 to Jul 2011**<br />2:1. Geography, Department of Geography<br />
+**Bachelor of Science | University of Southampton, UK | Sep 2008 to Jul 2011**<br />
+2:1. Geography, Department of Geography<br />
 
 ---
 ## Accreditations and Memberships
@@ -83,11 +84,9 @@ Member and Co-Convenor of the UK 3D Special Interest Group<br />
 Paper: Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope<br />
 
 **UCL Student Choice Awards | Exceptional Feedback (Nominated) | University College London | 2018**<br />
-
 This award honours member of staff who provides constructive, useful feedback on students’ assessment and learning, helping them to progress and succeed.<br />
 
 **Hart Prize | University College London | 2012**<br />
-
 Awarded for most distinguished performance in the course by the Head of Department of Civil, Environmental and Geomatic Engineering.<br />
 
 ---
