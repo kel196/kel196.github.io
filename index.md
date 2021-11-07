@@ -136,8 +136,7 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 | **02** | **Beyond Visualisation in 3D GIS**<br />Milner, J., Wong, K. and Ellul, C., 2014.<br />In *Proceedings of the 23rd GIS Research UK (GISRUK) Conference*, Leeds, UK, 2014 |
 | **01** | **Enhancing Positioning of Photovoltaic Panels using 3D Geographic Information**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 21st GIS Research UK (GISRUK) Conference*, Liverpool, UK, 2013 |
 
----
-## Industry Reports and Other Publications
+### Industry Reports and Other Publications
 
 | **05** | **Communicating and Understanding Risk in Dynamic Situations**<br />Thomson, T., Forde, W., and Wong, K.<br />Royal Geographical Society case study, 2021<br />URL: [https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk](https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk) |
 | ------ | ------------------------------------------------------------ |
@@ -146,8 +145,7 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 | **02** | **Economic Value of 3D Geographic Information**<br />Wong, K.K.Y. <br />EuroSDR and the Department of Computer Science, University College London, London, UK, 2015<br />URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
 | **01** | **Advances in 3DGIS**<br />Ellul, C. and Wong, K.<br />AGI foresight report 2020, the Association of Geographic Information, 2015<br />URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
----
-## Talks
+### Talks
 
 | **11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
 | ---------- | ------------------------------------------------------------ |
@@ -162,12 +160,11 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 | **02**   | *Workshop:* **3D GIS Workshop and Tutorial - GISRUK '15**<br />GIS Research UK, University of Leeds. Leeds, UK, 2015.<br />URL: [http://leeds.gisruk.org/workshops.html#3DGIS](http://leeds.gisruk.org/workshops.html#3DGIS) |
 | **01**   | *Talk:* **Designing 3D GI for Navigation Using Google Glass**<br />EuroSDR/ISPRS: Workshop for Capturing National Scale 3D Models, Ordnance Survey, Southampton, UK, 2014. <br />URL: [http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure](http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure) |
 
----
-## Theses
-|   |   |
-|---|---|
-| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K., 2018<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
+### Theses
+
+|          |                                                              |
 | -------- | ------------------------------------------------------------ |
+| **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K., 2018<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
 | **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K., 2014<br />*MRes thesis*, University College London. |
 | **MSc**  | **Enhancing Positioning of Photovoltaic Panels Using 3D Geographic Information**<br />Wong, K., 2012<br />*MSc thesis*, University College London. |
 | **BSc**  | **Assessing Photovoltaic Potential in Hawaii**<br />Wong, K., 2011<br />*BSc thesis*, University of Southampton |
