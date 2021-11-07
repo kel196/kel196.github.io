@@ -1,5 +1,7 @@
 # Dr Kelvin Wong
 
+#### Data Visualization | Data Analytics | Geospatial Specialist
+
 ---
 
 ## About Me
