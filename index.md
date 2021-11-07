@@ -129,7 +129,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **02** | **Beyond Visualisation in 3D GIS**<br />Milner, J., Wong, K. and Ellul, C., 2014.<br />In *Proceedings of the 23rd GIS Research UK (GISRUK) Conference*, Leeds, UK, 2014 |
 | **01** | **Enhancing Positioning of Photovoltaic Panels using 3D Geographic Information**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 21st GIS Research UK (GISRUK) Conference*, Liverpool, UK, 2013 |
 
-### Industry Reports and Other Publications
+## Industry Reports and Other Publications
 
 |        |                                                              |
 | ------ | ------------------------------------------------------------ |
@@ -139,7 +139,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **02** | **Economic Value of 3D Geographic Information**<br />Wong, K.K.Y. <br />EuroSDR and the Department of Computer Science, University College London, London, UK, 2015<br />URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
 | **01** | **Advances in 3DGIS**<br />Ellul, C. and Wong, K.<br />AGI foresight report 2020, the Association of Geographic Information, 2015<br />URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
-### Talks
+## Invited Talks
 
 |        |                                                              |
 | ---------- | ------------------------------------------------------------ |
@@ -155,7 +155,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **02**   | *Workshop:* **3D GIS Workshop and Tutorial - GISRUK '15**<br />GIS Research UK, University of Leeds. Leeds, UK, 2015.<br />URL: [http://leeds.gisruk.org/workshops.html#3DGIS](http://leeds.gisruk.org/workshops.html#3DGIS) |
 | **01**   | *Talk:* **Designing 3D GI for Navigation Using Google Glass**<br />EuroSDR/ISPRS: Workshop for Capturing National Scale 3D Models, Ordnance Survey, Southampton, UK, 2014. <br />URL: [http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure](http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure) |
 
-### Theses
+## Theses
 
 |          |                                                              |
 | -------- | ------------------------------------------------------------ |
