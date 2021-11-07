@@ -23,93 +23,97 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Experience
-**Mar 2020 – Present** Senior Product Manager, Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytics.
+**Senior Product Manager | Mar 2020 to Present**
+Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytic
 
-**Nov 2018 – Nov 2019** Postdoctoral Research Fellow, Institute of Industrial Science. University of Tokyo.
+**Postdoctoral Research Fellow | Nov 2018 to Nov 2019**
+Institute of Industrial Science, University of Tokyo 
 
-**May 2018 – Oct 2018** Researcher—GeoBIM, EuroSDR.
+**Researcher—GeoBIM | May 2018 to Oct 2018**
+EuroSDR
 
-**May 2018 – Aug 2018** Geographic Information Systems Consultant, Department for Transport.
+**Geographic Information Systems Consultant | May 2018 to Aug 2018**
+Maritime Security and Resilience Division, Department for Transport
 
-**Sep 2017 – Apr 2018** Module Coordinator, Department of Civil, Environmental & Geomatic Engineering. University College London
+**Module Coordinator | Sep 2017 to Apr 2018**
+Department of Civil, Environmental & Geomatic Engineering. University College London
 
-**Oct 2013 – Apr 2018** Postgraduate Teaching Assistant (various), Department of Civil, Environmental & Geomatic Engineering, University College London.
+**Postgraduate Teaching Assistant (various) | Oct 2013 to Apr 2018**
+Department of Civil, Environmental & Geomatic Engineering. University College London
 
-**Oct 2014 – Dec 2015** Researcher—Economic Value of 3D Geographic Information, EuroSDR.
+**Researcher—Economic Value of 3D Geographic Information | Oct 2014 to Dec 2015**
+EuroSDR
 
-**Jan 2013 – Sep 2013** GIS Analyst, WSP.
+**GIS Analyst | Jan 2013 to Sep 2013**
+WSP
 
 ---
 ## Education
 **Engineering Doctorate | University College London, UK | Sep 2014 to Apr 2018**
+
 3D Geographic Information Science, Department of Computer Science
 
 **Master of Research | University College London, UK | Sep 2013 to Sep 2014**
+
 Distinction. Virtual Environments, Imaging & Visualisation, Department of Computer Science
 
 **Master of Science | University College London, UK | Sep 2011 to Sep 2012**
+
 Distinction. Geographic Information Science, Department of Civil, Environmental, and Geomatic Engineering
 
 **Second Year Exchange Program | University of York, Canada | Jan 2010 to Apr 2010**
+
 Physical Geography, Department of Geography
 
 **Bachelor of Science | University of Southampton, UK | Sep 2008 to Jul 2011**
+
 2:1. Geography, Department of Geography
 
 ---
 ## Accreditations and Memberships
 
-**Chartered Geographer (GIS)**
+**Royal Geographical Society (with IBG)**
 
-Royal Geographical Society (with IBG). Accredited September 2020.
+- Chartered Geographer (GIS) | Sep 2020 to Present
+- Fellow| Sep 2020 to Present
+- Member | Disaster Risk Management Professional Practice Group | Sep 2020 to Present
 
-**Fellow of the Royal Geographical Society**
+**Data Visualisation Society**
 
-Since September 2020
+- Member | Mar 2020 to Present
 
-**Member of the Data Visualization Society**
+**Association of Geographic Information**
 
-Since March 2020
-
-**Member of the Disaster Risk Management Professional Practice Group, Royal Geographical Society**
-
-Since September 2020
-
-**Co-convenor of the UK 3D GIS Special Interest Group**
-
-Since February 2014
-
-**Member of the Association of Geographic Information**
-
-Since September 2011
+- Member | Sep 2011 to Present
+- Co-Convenor | UK 3D Special Interest Group
 
 ---
 
 ## Awards, Honours, and Distinctions
 
-**IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award – Bronze Prize, 2019**
+**IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize | 2019**
 
 Paper: Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope
 
-**UCL Student Choice Awards – Exceptional Feedback (Nominated), University College London, 2018**
+**UCL Student Choice Awards | Exceptional Feedback (Nominated) | University College London | 2018**
 
 This award honours member of staff who provides constructive, useful feedback on students’ assessment and learning, helping them to progress and succeed.
 
-**Hart Prize, University College London, 2012**
+**Hart Prize | University College London | 2012**
 
 Awarded for most distinguished performance in the course by the Head of Department of Civil, Environmental and Geomatic Engineering.
 
 ---
 ## Research Funding
-**Japan Society for the Promotion of Science Postdoctoral Fellowship for Research in Japan (short-term), 2018**
+**Postdoctoral Fellowship for Research in Japan | Japan Society for the Promotion of Science | 2018**
 
 The program provides PhD students or PhD researchers in the Europe and North America with opportunities to conduct collaborative research under the guidance of their hosts in universities and other Japanese institutions.
 
-**UCL Centre VEIV Advance Scholarship, University College London, 2017**
+**UCL Centre VEIV Advance Scholarship | University College London | 2017**
 
 The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The award is to support three months’ work in writing and submitting a research proposal or business plan relating directly to VEIV themes.
 
-**Engineering Doctorate Studentship Award – Developing a New 3D Dataset with the Ordnance Survey, The Engineering and Physical Sciences Research Council (EPSRC), 2013**
+**Engineering Doctorate Studentship Award | Developing a New 3D Dataset with the Ordnance Survey | The Engineering and Physical Sciences Research Council (EPSRC) | 2013**
 
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.
 
@@ -128,7 +132,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 |        |                                                              |
 | ------- | ------------------------------------------------------------ |
-| 15 | **Threat Analysis of an Autonomous Vehicle Architecture**<br />Dang, Q.A., Khondoker, R., Wong, K., and Kamijo, S. <br />*2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 19-20 December 2020*<br />URL: [https://doi.org/10.1109/STI50764.2020.9350512](https://doi.org/10.1109/STI50764.2020.9350512) |
+| **15** | **Threat Analysis of an Autonomous Vehicle Architecture**<br />Dang, Q.A., Khondoker, R., Wong, K., and Kamijo, S. <br />*2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 19-20 December 2020*<br />URL: [https://doi.org/10.1109/STI50764.2020.9350512](https://doi.org/10.1109/STI50764.2020.9350512) |
 | **14** | **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Wong, K., Gu, Y., and Kamijo, S.<br />*IEEE Intelligent Transportation Systems Magazine*, 2020<br />URL: [https://doi.org/10.1109/MITS.2020.3014152](https://doi.org/10.1109/MITS.2020.3014152) |
 | **13** | **Road scene risk perception for intelligent vehicles using end-to-end affordance learning and visual reasoning**<br />Withanawasam, J., Javanmardi, E., Wong, K., Javanmardi, M., and Kamijo, S.<br />In *The 5th Asian Conference on Pattern Recognition (ACPR 2019)*, Auckland, New Zealand, 2020 [https://doi.org/10.1007/978-3-030-41404-7_60](https://doi.org/10.1007/978-3-030-41404-7_60) |
 | **12** | **Estimating Autonomous Vehicle Localization Error Using 2D Geographic Information**<br />Wong, K., Javanmardi, E., Javanmardi, M. and Kamijo, S.<br />*ISPRS International Journal of Geo-Information*, 8(6), p.288, 2019<br />URL: [https://doi.org/10.3390/ijgi8060288](https://doi.org/10.3390/ijgi8060288). Open Access |
