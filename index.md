@@ -164,7 +164,8 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ---
 ## Theses
-
+|   |   |
+|---|---|
 | **EngD** | **Towards a National 3D Mapping Product for Great Britain**<br />Wong, K., 2018<br />*EngD thesis*, University College London. Defended on 09 April 2018.<br />URL: [https://discovery.ucl.ac.uk/id/eprint/10047505/](https://discovery.ucl.ac.uk/id/eprint/10047505/) |
 | -------- | ------------------------------------------------------------ |
 | **MRes** | **Designing 3D Geographic Information for Navigation Using Google Glass**<br />Wong, K., 2014<br />*MRes thesis*, University College London. |
