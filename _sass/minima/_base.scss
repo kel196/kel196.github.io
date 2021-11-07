@@ -13,27 +13,6 @@ dl, dd, ol, ul, figure {
 
 }
 
-h1 {
-  font-weight: 700;
-  font-size: 3.5em;
-  color: #000000;
-}
-
-h2 {
-  font-weight: 700;
-  font-size: 2em;
-  color: #004293;
-}
-
-h3 {
-  font-size: 1.5em;
-  color: #004293;
-}
-
-.site-footer {
-  background-color: #4F565C;
-}
-
 /**
  * Basic styling
  */
@@ -68,6 +47,7 @@ ul, ol, dl, figure,
 hr {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
+  border-top: 0.4em solid #004293;
 }
 
 /**
@@ -298,4 +278,27 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+/ ** Custom CSS **/
+
+h1 {
+  font-weight: 700;
+  font-size: 3.5em;
+  color: #000000;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 2em;
+  color: #004293;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: #004293;
+}
+
+.site-footer {
+  background-color: #4F565C;
 }
