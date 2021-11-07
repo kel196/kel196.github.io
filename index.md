@@ -41,17 +41,20 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Education
-**2014 – 2018** EngD in 3D Geographic Information Science. University College London, UK.
+**Engineering Doctorate | University College London, UK | Sep 2014 to Apr 2018**
+3D Geographic Information Science, Department of Computer Science
 
-**2013 – 2014** MRes in Virtual Environments, Imaging & Visualisation. University College London, UK.
+**Master of Research | University College London, UK | Sep 2013 to Sep 2014**
+Distinction. Virtual Environments, Imaging & Visualisation, Department of Computer Science
 
-**2011 – 2012** MSc in Geographic Information Science. University College London, UK.
+**Master of Science | University College London, UK | Sep 2011 to Sep 2012**
+Distinction. Geographic Information Science, Department of Civil, Environmental, and Geomatic Engineering
 
-**2010** Second Year Exchange Program. University of York, Canada.
+**Second Year Exchange Program | University of York, Canada | Jan 2010 to Apr 2010**
+Physical Geography, Department of Geography
 
-**2008 – 2011** BSc in Geography. University of Southampton, UK.
-
-**2001 – 2008** Tiffin School. Kingston-Upon-Thames, UK.
+**Bachelor of Science | University of Southampton, UK | Sep 2008 to Jul 2011**
+2:1. Geography, Department of Geography
 
 ---
 ## Accreditations and Memberships
@@ -112,15 +115,20 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ---
 ## Volunteering
-**Sep 2015 – Feb 2016** PhD teacher, The Brilliant Club
+**PhD Teacher | The Brilliant Club | Sep 2015 – Feb 2016**
 
-**Jan 2015 – Jan 2017** IT Support, Age Concern
+The Scholars Programme recruits, trains, and places doctoral and postdoctoral researchers in secondary schools to deliver courses of university-style tutorials based on their research.
+
+**IT Support | Age Concern | Jan 2015 – Jan 2017**
+
+Providing one-to-one personalised IT support at the client’s own home for older residents who live in the borough of Epsom and Ewell.
 
 ---
 ## Peer-Reviewed Publications
 
-| 15 | **Threat Analysis of an Autonomous Vehicle Architecture**<br />Dang, Q.A., Khondoker, R., Wong, K., and Kamijo, S. <br />*2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 19-20 December 2020*<br />URL: [https://doi.org/10.1109/STI50764.2020.9350512](https://doi.org/10.1109/STI50764.2020.9350512) |
+|        |                                                              |
 | ------- | ------------------------------------------------------------ |
+| 15 | **Threat Analysis of an Autonomous Vehicle Architecture**<br />Dang, Q.A., Khondoker, R., Wong, K., and Kamijo, S. <br />*2020 2nd International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 19-20 December 2020*<br />URL: [https://doi.org/10.1109/STI50764.2020.9350512](https://doi.org/10.1109/STI50764.2020.9350512) |
 | **14** | **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Wong, K., Gu, Y., and Kamijo, S.<br />*IEEE Intelligent Transportation Systems Magazine*, 2020<br />URL: [https://doi.org/10.1109/MITS.2020.3014152](https://doi.org/10.1109/MITS.2020.3014152) |
 | **13** | **Road scene risk perception for intelligent vehicles using end-to-end affordance learning and visual reasoning**<br />Withanawasam, J., Javanmardi, E., Wong, K., Javanmardi, M., and Kamijo, S.<br />In *The 5th Asian Conference on Pattern Recognition (ACPR 2019)*, Auckland, New Zealand, 2020 [https://doi.org/10.1007/978-3-030-41404-7_60](https://doi.org/10.1007/978-3-030-41404-7_60) |
 | **12** | **Estimating Autonomous Vehicle Localization Error Using 2D Geographic Information**<br />Wong, K., Javanmardi, E., Javanmardi, M. and Kamijo, S.<br />*ISPRS International Journal of Geo-Information*, 8(6), p.288, 2019<br />URL: [https://doi.org/10.3390/ijgi8060288](https://doi.org/10.3390/ijgi8060288). Open Access |
@@ -138,8 +146,9 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ### Industry Reports and Other Publications
 
-| **05** | **Communicating and Understanding Risk in Dynamic Situations**<br />Thomson, T., Forde, W., and Wong, K.<br />Royal Geographical Society case study, 2021<br />URL: [https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk](https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk) |
+|        |                                                              |
 | ------ | ------------------------------------------------------------ |
+| **05** | **Communicating and Understanding Risk in Dynamic Situations**<br />Thomson, T., Forde, W., and Wong, K.<br />Royal Geographical Society case study, 2021<br />URL: [https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk](https://www.rgs.org/geography/advocacy-and-impact/impact/communicating-and-understanding-risk) |
 | **04** | **3rd BIM/GIS Integration Workshop and 15th 3DGeoInfo Conference 2020 - Preface**<br />Wong, K., Ellul, C., Morley, J., Home, R., and Kalantari, M.<br />*ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, Volume VI-4/W1-2020, 1–1, 2020.<br />URL: [https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-1-2020](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-1-2020)https://doi.org/10.1109/STI50764.2020.9350512) |
 | **03** | **3rd BIM/GIS Integration Workshop and 15th 3DGeoInfo Conference 2020 - Preface**<br />Wong, K., Ellul, C., Morley, J., Home, R., and Kalantari, M.<br />*The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, Volume XLIV-4/W1-2020, 1–1, 2020<br />URL: [https://doi.org/10.5194/isprs-archives-XLIV-4-W1-2020-1-2020](https://doi.org/10.5194/isprs-archives-XLIV-4-W1-2020-1-2020) |
 | **02** | **Economic Value of 3D Geographic Information**<br />Wong, K.K.Y. <br />EuroSDR and the Department of Computer Science, University College London, London, UK, 2015<br />URL: [https://tinyurl.com/valueof3D](https://tinyurl.com/valueof3D) |
@@ -147,10 +156,11 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ### Talks
 
-| **11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
+|        |                                                              |
 | ---------- | ------------------------------------------------------------ |
+| **11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
 | **10**    | *Panel:* **Communicating and Understanding Risk in Dynamic Situations**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Fireside Chat. Virtual, 2021. |
-| 0**9**   | *Talk:* **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Geospatial Seminar Series. University College London. London, UK, 2019. |
+| **09**  | *Talk:* **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Geospatial Seminar Series. University College London. London, UK, 2019. |
 | **08**   | *Workshop:* **Introduction 3D GIS and BIM 2017 (1-day event)**<br />British Computer Society and Association for Geographic Information. University College London. London, UK, 2017. |
 | **07**   | *Talk:* **Manipulating, Querying and Quantifying 3D Geographic Information Using the Oracle Spatial Java API**<br />UK Oracle User Group Spatial & Graph SIG. London, UK, 2017. |
 | **06** | *Workshop:* **3D GIS Workshop and Tutorial - GISRUK '16**<br />GIS Research UK, University of Greenwich. London, UK, 2016. |
