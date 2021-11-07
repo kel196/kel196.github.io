@@ -57,63 +57,78 @@ Development, Transport and Infrastructure
 
 ---
 ## Education
-**Engineering Doctorate | University College London, UK | Sep 2014 to Apr 2018**<br />
+**Engineering Doctorate | University College London, UK**<br />
+*Sep 2014 to Apr 2018*<br />
 3D Geographic Information Science, Department of Computer Science<br />
 
-**Master of Research | University College London, UK | Sep 2013 to Sep 2014**<br />
+**Master of Research | University College London, UK**<br />
+*Sep 2013 to Sep 2014*<br />
 Distinction. Virtual Environments, Imaging & Visualisation, Department of Computer Science<br />
 
-**Master of Science | University College London, UK | Sep 2011 to Sep 2012**<br />
+**Master of Science | University College London, UK**<br />
+*Sep 2011 to Sep 2012*<br />
 Distinction. Geographic Information Science, Department of Civil, Environmental, and Geomatic Engineering<br />
 
-**Second Year Exchange Program | University of York, Canada | Jan 2010 to Apr 2010**<br />
+**Second Year Exchange Program | University of York, Canada**<br />
+*Jan 2010 to Apr 2010*<br />
 Physical Geography, Department of Geography<br />
 
-**Bachelor of Science | University of Southampton, UK | Sep 2008 to Jul 2011**<br />
+**Bachelor of Science | University of Southampton, UK**<br />
+*Sep 2008 to Jul 2011*<br />
 2:1. Geography, Department of Geography<br />
 
 ---
 ## Accreditations and Memberships
-
-**Royal Geographical Society (with IBG) | Sep 2020 to Present**<br />
+**Royal Geographical Society (with IBG)**<br />
+*Sep 2020 to Present*<br />
 Fellow, Chartered Geographer (GIS), and Member of the Disaster Risk Management Professional Practice Group<br />
 
-**Data Visualisation Society | Mar 2020 to Present**<br />
+**Data Visualisation Society**<br />
+*Mar 2020 to Present*<br />
 Member<br />
 
-**Association of Geographic Information | Sep 2011 to Present**<br />
+**Association of Geographic Information**<br />
+*Sep 2011 to Present*<br />
 Member and Co-Convenor of the UK 3D Special Interest Group<br />
 
 ---
 
 ## Awards, Honours, and Distinctions
 
-**IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize | 2019**<br />
+**IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize**<br />
+*2019*<br />
 Paper: Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope<br />
 
-**UCL Student Choice Awards | Exceptional Feedback (Nominated) | University College London | 2018**<br />
+**UCL Student Choice Awards | Exceptional Feedback (Nominated) | University College London**<br />
+*2018*<br />
 This award honours member of staff who provides constructive, useful feedback on students’ assessment and learning, helping them to progress and succeed.<br />
 
-**Hart Prize | University College London | 2012**<br />
+**Hart Prize | University College London**<br />
+*2012*<br />
 Awarded for most distinguished performance in the course by the Head of Department of Civil, Environmental and Geomatic Engineering.<br />
 
 ---
 ## Research Funding
-**Postdoctoral Fellowship for Research in Japan | Japan Society for the Promotion of Science | 2018**<br />
+**Postdoctoral Fellowship for Research in Japan | Japan Society for the Promotion of Science**<br />
+*2018*<br />
 The program provides PhD students or PhD researchers in the Europe and North America with opportunities to conduct collaborative research under the guidance of their hosts in universities and other Japanese institutions.<br />
 
-**UCL Centre VEIV Advance Scholarship | University College London | 2017**<br />
+**UCL Centre VEIV Advance Scholarship | University College London**<br />
+*2017*<br />
 The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The award is to support three months’ work in writing and submitting a research proposal or business plan relating directly to VEIV themes.<br />
 
-**Engineering Doctorate Studentship Award | Developing a New 3D Dataset with the Ordnance Survey | The Engineering and Physical Sciences Research Council (EPSRC) | 2013**<br />
+**Engineering Doctorate Studentship Award | Developing a New 3D Dataset with the Ordnance Survey | The Engineering and Physical Sciences Research Council (EPSRC)**<br />
+*2013*<br />
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.<br />
 
 ---
 ## Volunteering
-**PhD Teacher | The Brilliant Club | Sep 2015 to Feb 2016**<br />
+**PhD Teacher | The Brilliant Club**<br />
+*Sep 2015 to Feb 2016*<br />
 The Scholars Programme recruits, trains, and places doctoral and postdoctoral researchers in secondary schools to deliver courses of university-style tutorials based on their research.<br />
 
-**IT Support | Age Concern | Jan 2015 to Jan 2017**<br />
+**IT Support | Age Concern**<br />
+*Jan 2015 to Jan 2017*<br />
 Providing one-to-one personalised IT support at the client’s own home for older residents who live in the borough of Epsom and Ewell.<br />
 
 ---
