@@ -68,18 +68,11 @@ Physical Geography, Department of Geography<br />
 
 **Royal Geographical Society (with IBG) | Sep 2020 to Present**<br />
 
-- Chartered Geographer (GIS)<br />
-- Fellow<br />
-- Member of the Disaster Risk Management Professional Practice Group<br />
+Fellow, Chartered Geographer (GIS), and Member of the Disaster Risk Management Professional Practice Group<br />
 
-**Data Visualisation Society | Mar 2020 to Present**<br />
+**Data Visualisation Society | Mar 2020 to Present**<br />Member<br />
 
-- Member<br />
-
-**Association of Geographic Information | Sep 2011 to Present**<br />
-
-- Member<br />
-- Co-Convenor of the UK 3D Special Interest Group<br />
+**Association of Geographic Information | Sep 2011 to Present**<br />Member and Co-Convenor of the UK 3D Special Interest Group<br />
 
 ---
 
