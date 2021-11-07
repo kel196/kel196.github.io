@@ -67,12 +67,13 @@ Physical Geography, Department of Geography<br />
 ## Accreditations and Memberships
 
 **Royal Geographical Society (with IBG) | Sep 2020 to Present**<br />
-
 Fellow, Chartered Geographer (GIS), and Member of the Disaster Risk Management Professional Practice Group<br />
 
-**Data Visualisation Society | Mar 2020 to Present**<br />Member<br />
+**Data Visualisation Society | Mar 2020 to Present**<br />
+Member<br />
 
-**Association of Geographic Information | Sep 2011 to Present**<br />Member and Co-Convenor of the UK 3D Special Interest Group<br />
+**Association of Geographic Information | Sep 2011 to Present**<br />
+Member and Co-Convenor of the UK 3D Special Interest Group<br />
 
 ---
 
@@ -92,25 +93,20 @@ Awarded for most distinguished performance in the course by the Head of Departme
 ---
 ## Research Funding
 **Postdoctoral Fellowship for Research in Japan | Japan Society for the Promotion of Science | 2018**<br />
-
 The program provides PhD students or PhD researchers in the Europe and North America with opportunities to conduct collaborative research under the guidance of their hosts in universities and other Japanese institutions.<br />
 
 **UCL Centre VEIV Advance Scholarship | University College London | 2017**<br />
-
 The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The award is to support three months’ work in writing and submitting a research proposal or business plan relating directly to VEIV themes.<br />
 
 **Engineering Doctorate Studentship Award | Developing a New 3D Dataset with the Ordnance Survey | The Engineering and Physical Sciences Research Council (EPSRC) | 2013**<br />
-
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.<br />
 
 ---
 ## Volunteering
-**PhD Teacher | The Brilliant Club | Sep 2015 to Feb 2016<br />**
-
+**PhD Teacher | The Brilliant Club | Sep 2015 to Feb 2016**<br />
 The Scholars Programme recruits, trains, and places doctoral and postdoctoral researchers in secondary schools to deliver courses of university-style tutorials based on their research.<br />
 
 **IT Support | Age Concern | Jan 2015 to Jan 2017**<br />
-
 Providing one-to-one personalised IT support at the client’s own home for older residents who live in the borough of Epsom and Ewell.<br />
 
 ---
