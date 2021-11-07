@@ -26,23 +26,37 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 **Senior Product Manager | Mar 2020 to Present**
 Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytic
 
+
+
 **Postdoctoral Research Fellow | Nov 2018 to Nov 2019**
-Institute of Industrial Science, University of Tokyo 
+Institute of Industrial Science, University of Tokyo
+
+
 
 **Researcher—GeoBIM | May 2018 to Oct 2018**
 EuroSDR
 
+
+
 **Geographic Information Systems Consultant | May 2018 to Aug 2018**
 Maritime Security and Resilience Division, Department for Transport
+
+
 
 **Module Coordinator | Sep 2017 to Apr 2018**
 Department of Civil, Environmental & Geomatic Engineering. University College London
 
+
+
 **Postgraduate Teaching Assistant (various) | Oct 2013 to Apr 2018**
 Department of Civil, Environmental & Geomatic Engineering. University College London
 
+
+
 **Researcher—Economic Value of 3D Geographic Information | Oct 2014 to Dec 2015**
 EuroSDR
+
+
 
 **GIS Analyst | Jan 2013 to Sep 2013**
 WSP
@@ -53,17 +67,25 @@ WSP
 
 3D Geographic Information Science, Department of Computer Science
 
+
+
 **Master of Research | University College London, UK | Sep 2013 to Sep 2014**
 
 Distinction. Virtual Environments, Imaging & Visualisation, Department of Computer Science
+
+
 
 **Master of Science | University College London, UK | Sep 2011 to Sep 2012**
 
 Distinction. Geographic Information Science, Department of Civil, Environmental, and Geomatic Engineering
 
+
+
 **Second Year Exchange Program | University of York, Canada | Jan 2010 to Apr 2010**
 
 Physical Geography, Department of Geography
+
+
 
 **Bachelor of Science | University of Southampton, UK | Sep 2008 to Jul 2011**
 
@@ -91,13 +113,19 @@ Physical Geography, Department of Geography
 
 ## Awards, Honours, and Distinctions
 
+
+
 **IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize | 2019**
 
 Paper: Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope
 
+
+
 **UCL Student Choice Awards | Exceptional Feedback (Nominated) | University College London | 2018**
 
 This award honours member of staff who provides constructive, useful feedback on students’ assessment and learning, helping them to progress and succeed.
+
+
 
 **Hart Prize | University College London | 2012**
 
