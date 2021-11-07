@@ -23,43 +23,29 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Experience
-**Senior Product Manager | Mar 2020 to Present**
-Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytic
+**Senior Product Manager | Mar 2020 to Present**<br />
+Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytic<br />
 
+**Postdoctoral Research Fellow | Nov 2018 to Nov 2019**<br />
+Institute of Industrial Science, University of Tokyo<br />
 
+**Researcher—GeoBIM | May 2018 to Oct 2018**<br />
+EuroSDR<br />
 
-**Postdoctoral Research Fellow | Nov 2018 to Nov 2019**
-Institute of Industrial Science, University of Tokyo
+**Geographic Information Systems Consultant | May 2018 to Aug 2018**<br />
+Maritime Security and Resilience Division, Department for Transport<br />
 
+**Module Coordinator | Sep 2017 to Apr 2018**<br />
+Department of Civil, Environmental & Geomatic Engineering. University College London<br />
 
+**Postgraduate Teaching Assistant (various) | Oct 2013 to Apr 2018**<br />
+Department of Civil, Environmental & Geomatic Engineering. University College London<br />
 
-**Researcher—GeoBIM | May 2018 to Oct 2018**
-EuroSDR
+**Researcher—Economic Value of 3D Geographic Information | Oct 2014 to Dec 2015**<br />
+EuroSDR<br />
 
-
-
-**Geographic Information Systems Consultant | May 2018 to Aug 2018**
-Maritime Security and Resilience Division, Department for Transport
-
-
-
-**Module Coordinator | Sep 2017 to Apr 2018**
-Department of Civil, Environmental & Geomatic Engineering. University College London
-
-
-
-**Postgraduate Teaching Assistant (various) | Oct 2013 to Apr 2018**
-Department of Civil, Environmental & Geomatic Engineering. University College London
-
-
-
-**Researcher—Economic Value of 3D Geographic Information | Oct 2014 to Dec 2015**
-EuroSDR
-
-
-
-**GIS Analyst | Jan 2013 to Sep 2013**
-WSP
+**GIS Analyst | Jan 2013 to Sep 2013**<br />
+WSP<br />
 
 ---
 ## Education
@@ -113,19 +99,13 @@ Physical Geography, Department of Geography
 
 ## Awards, Honours, and Distinctions
 
-
-
 **IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize | 2019**
 
 Paper: Classifying Human Activity and Smartphone Holding Mode Using Accelerometer and Gyroscope
 
-
-
 **UCL Student Choice Awards | Exceptional Feedback (Nominated) | University College London | 2018**
 
 This award honours member of staff who provides constructive, useful feedback on students’ assessment and learning, helping them to progress and succeed.
-
-
 
 **Hart Prize | University College London | 2012**
 
