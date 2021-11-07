@@ -1,4 +1,4 @@
-# **Dr Kelvin Wong**
+# Dr Kelvin Wong
 
 ---
 
@@ -21,7 +21,7 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Experience
-**Mar 2020 – Present** Senior Product Manager, Models and Content Experience, Risk Management Solutions (RMS).
+**Mar 2020 – Present** Senior Product Manager, Models and Content Experience, Risk Management Solutions (RMS), part of Moody's Analytics.
 
 **Nov 2018 – Nov 2019** Postdoctoral Research Fellow, Institute of Industrial Science. University of Tokyo.
 
@@ -168,6 +168,7 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 | Identifier | Title                                                        |
 | ---------- | ------------------------------------------------------------ |
+| **T-11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
 | **T-10**    | *Panel:* **Communicating and Understanding Risk in Dynamic Situations**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Fireside Chat. Virtual, 2021. |
 | **T-9**    | *Talk:* **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Geospatial Seminar Series. University College London. London, UK, 2019. |
 | **T-8**    | *Workshop:* **Introduction 3D GIS and BIM 2017 (1-day event)**<br />British Computer Society and Association for Geographic Information. University College London. London, UK, 2017. |
@@ -181,4 +182,4 @@ The award provides a tax-free stipend of £18,590 per annum for four years, plus
 
 ---
 
-Last Updated: 09 August 2021
+Last Updated: 07 November 2021
