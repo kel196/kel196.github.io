@@ -23,7 +23,7 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Experience
-**Mar 2020 – Present** Senior Product Manager, Models and Content Experience, Risk Management Solutions (RMS), part of Moody's Analytics.
+**Mar 2020 – Present** Senior Product Manager, Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytics.
 
 **Nov 2018 – Nov 2019** Postdoctoral Research Fellow, Institute of Industrial Science. University of Tokyo.
 
