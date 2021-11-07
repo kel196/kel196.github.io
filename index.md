@@ -69,9 +69,9 @@ Distinction. Virtual Environments, Imaging & Visualisation, Department of Comput
 *Sep 2011 to Sep 2012*<br />
 Distinction. Geographic Information Science, Department of Civil, Environmental, and Geomatic Engineering<br />
 
-**Second Year Exchange Program | University of York, Canada**<br />
+**Second Year Exchange Program | York University, Canada**<br />
 *Jan 2010 to Apr 2010*<br />
-Physical Geography, Department of Geography<br />
+Department of Geography<br />
 
 **Bachelor of Science | University of Southampton, UK**<br />
 *Sep 2008 to Jul 2011*<br />
