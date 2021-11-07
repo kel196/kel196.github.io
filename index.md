@@ -23,29 +23,37 @@ The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
 
 ---
 ## Experience
-**Senior Product Manager | Mar 2020 to Present**<br />
-Models and Data Content Experience, Risk Management Solutions (RMS), part of Moody's Analytic<br />
+**Senior Product Manager | Risk Management Solutions (RMS), part of Moody's Analytics**<br />
+*Mar 2020 to Present*<br />
+Models and Data Content Experience<br />
 
-**Postdoctoral Research Fellow | Nov 2018 to Nov 2019**<br />
-Institute of Industrial Science, University of Tokyo<br />
+**Postdoctoral Research Fellow | University of Tokyo 東京大学**<br />
+*Nov 2018 to Nov 2019*<br />
+Institute of Industrial Science 生産技術研究所<br />
 
-**Researcher—GeoBIM | May 2018 to Oct 2018**<br />
-EuroSDR<br />
+**Researcher | EuroSDR**<br />
+*May 2018 to Oct 2018*<br />
+Investigating the State of Play of GeoBIM Across Europe<br />
 
-**Geographic Information Systems Consultant | May 2018 to Aug 2018**<br />
-Maritime Security and Resilience Division, Department for Transport<br />
+**Geographic Information Systems Consultant | Department for Transport**<br />
+*May 2018 to Aug 2018*<br />
+Maritime Security and Resilience Division<br />
 
-**Module Coordinator | Sep 2017 to Apr 2018**<br />
-Department of Civil, Environmental & Geomatic Engineering. University College London<br />
+**Module Coordinator | University College London**<br />
+*Sep 2017 to Apr 2018*<br />
+Department of Civil, Environmental & Geomatic Engineering<br />
 
-**Postgraduate Teaching Assistant (various) | Oct 2013 to Apr 2018**<br />
-Department of Civil, Environmental & Geomatic Engineering. University College London<br />
+**Postgraduate Teaching Assistant (various) | University College London**<br />
+*Oct 2013 to Apr 2018*<br />
+Department of Civil, Environmental & Geomatic Engineering<br />
 
-**Researcher—Economic Value of 3D Geographic Information | Oct 2014 to Dec 2015**<br />
-EuroSDR<br />
+**Researcher | EuroSDR**<br />
+*Oct 2014 to Dec 2015*<br />
+Economic Value of 3D Geographic Information<br />
 
-**GIS Analyst | Jan 2013 to Sep 2013**<br />
-WSP<br />
+**GIS Analyst | WSP Global**<br />
+*Jan 2013 to Sep 2013*<br />
+Development, Transport and Infrastructure
 
 ---
 ## Education
