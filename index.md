@@ -9,7 +9,7 @@
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
 
-Find out more about Kelvin's research and publications [here](#publications).
+Find out more about Kelvin's research and publications [here](#peer-reviewed-publications).
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
 
