@@ -1,30 +1,34 @@
 # Dr Kelvin Wong
 
-#### Data Visualization | Data Analytics | Geospatial Data Science
+#### Data Visualisation & Analytics Leadership | Product Management | Geospatial Data Science
 
 ---
 
 ## About Me
-**Dr Kelvin Wong CGeog(GIS) FRGS** is a Senior Product Manager at [Risk Management Solutions (RMS)](https://www.rms.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
+**Dr Kelvin Wong CGeog(GIS) FRGS** is the Head of Data Visualisation at [Penguin Random House](https://www.penguinrandomhouse.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
-Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions. At RMS, he works alongside a unique mix of climatologists, seismologists, and mathematicians to design the best user experience for market-leading catastrophe modelling applications.
+Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
 
 Find out more about Kelvin's research and publications [here](#publications).
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
 
-If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com).
+If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [KWong@penguinrandomhouse.co.uk](mailto:KWong@penguinrandomhouse.co.uk).
 
 ---
 ## Contact
-[Kelvin.Wong@rms.com](mailto:Kelvin.Wong@rms.com)
+[KWong@penguinrandomhouse.co.uk](mailto:KWong@penguinrandomhouse.co.uk)
 
-The Minster Building, 21 Mincing Lane, London, EC3R 7AG, United Kingdom
+One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW, United Kingdom
 
 ---
 ## Experience
+**Head of Data Visualisation | Penguin Random House**<br />
+*Feb 2022 to Present*<br />
+Data and Online<br />
+
 **Senior Product Manager | Risk Management Solutions (RMS), part of Moody's Analytics**<br />
-*Mar 2020 to Present*<br />
+*Mar 2020 to Feb 2022*<br />
 Models and Data Content Experience<br />
 
 **Postdoctoral Research Fellow | University of Tokyo 東京大学**<br />
@@ -192,4 +196,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 07 November 2021
+Last Updated: 07 February 2022
