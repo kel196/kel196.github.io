@@ -1,6 +1,6 @@
 # Dr Kelvin Wong
 
-#### Data Leader| Product Management | Geospatial Data Science
+#### Data Leader | Product Management | Geospatial Data Science
 
 ---
 
