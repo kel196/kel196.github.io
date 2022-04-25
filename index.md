@@ -1,6 +1,6 @@
 # Dr Kelvin Wong
 
-#### Data Visualisation & Analytics Leadership | Product Management | Geospatial Data Science
+#### Data Leader| Product Management | Geospatial Data Science
 
 ---
 
@@ -12,8 +12,6 @@ Using science as a practical tool for solving real-life problems, his research t
 Find out more about Kelvin's research and publications [here](#peer-reviewed-publications).
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
-
-If you would like to discuss a research collaboration with Kelvin, or would like him to come and give a talk, please contact [KWong@penguinrandomhouse.co.uk](mailto:KWong@penguinrandomhouse.co.uk).
 
 ---
 ## Contact
@@ -196,4 +194,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 07 February 2022
+Last Updated: 25 April 2022
