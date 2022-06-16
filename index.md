@@ -1,6 +1,6 @@
 # Dr Kelvin Wong
 
-#### Data Leader | Product Management | Geospatial Data Science
+#### Data & Analytics Leadership | Product Management | Geospatial Data Science | Operational Excellence
 
 ---
 
@@ -194,4 +194,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 25 April 2022
+Last Updated: 16 June 2022
