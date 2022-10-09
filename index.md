@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-**Dr Kelvin Wong CGeog(GIS) FRGS** is the Head of Data Visualisation at [Penguin Random House](https://www.penguinrandomhouse.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
+**Dr Kelvin Wong CGeog(GIS) FRGS** is the Head of Data Visualisation at [Penguin Random House UK](https://www.penguinrandomhouse.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/).
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
 
@@ -23,15 +23,15 @@ One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW, United Kingdom
 ## Experience
 **Head of Data Visualisation | Penguin Random House**<br />
 *Feb 2022 to Present*<br />
-Data and Online<br />
+Data Team Centre of Excellence<br />
 
 **Senior Product Manager | Risk Management Solutions (RMS), part of Moody's Analytics**<br />
 *Mar 2020 to Feb 2022*<br />
-Models and Data Content Experience<br />
+Models and Data Content Experience, AppX<br />
 
 **Postdoctoral Research Fellow | University of Tokyo 東京大学**<br />
 *Nov 2018 to Nov 2019*<br />
-Institute of Industrial Science 生産技術研究所<br />
+Kamijo Lab, Institute of Industrial Science 生産技術研究所<br />
 
 **Researcher | EuroSDR**<br />
 *May 2018 to Oct 2018*<br />
@@ -62,6 +62,7 @@ Development, Transport and Infrastructure
 **Engineering Doctorate | University College London, UK**<br />
 *Sep 2014 to Apr 2018*<br />
 3D Geographic Information Science, Department of Computer Science<br />
+In collaboration with Ordnance Survey (national mapping agency for Great Britain)<br />
 
 **Master of Research | University College London, UK**<br />
 *Sep 2013 to Sep 2014*<br />
@@ -83,7 +84,7 @@ Department of Geography<br />
 ## Accreditations and Memberships
 **Royal Geographical Society (with IBG)**<br />
 *Sep 2020 to Present*<br />
-Fellow, Chartered Geographer (GIS), and Member of the Disaster Risk Management Professional Practice Group<br />
+Fellow, Chartered Geographer (GIS), and Co-opted Committee Member of the Disaster Risk Management Professional Practice Group<br />
 
 **Data Visualisation Society**<br />
 *Mar 2020 to Present*<br />
