@@ -61,8 +61,7 @@ Development, Transport and Infrastructure
 ## Education
 **Engineering Doctorate | University College London, UK**<br />
 *Sep 2014 to Apr 2018*<br />
-3D Geographic Information Science, Department of Computer Science<br />
-In collaboration with Ordnance Survey (national mapping agency for Great Britain)<br />
+3D Geographic Information Science, Department of Computer Science. In collaboration with Ordnance Survey.<br />
 
 **Master of Research | University College London, UK**<br />
 *Sep 2013 to Sep 2014*<br />
