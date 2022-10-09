@@ -194,4 +194,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 16 June 2022
+Last Updated: 09 October 2022
