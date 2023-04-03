@@ -1,11 +1,11 @@
 # Dr Kelvin Wong
 
-#### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science | Operational Excellence
+#### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science
 
 ---
 
 ## About Me
-**Dr Kelvin Wong CGeog(GIS) FRGS** is the Head of Data Visualisation at [Penguin Random House UK](https://www.penguinrandomhouse.com/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Vice-Chair of the Disaster Risk Management Professional Practice Group
+**Dr Kelvin Wong CGeog(GIS) FRGS** is a Divisional Director - Catastrophe Analytics, EMEA West-South at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Vice-Chair of the Disaster Risk Management Professional Practice Group
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
 
@@ -15,14 +15,16 @@ You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and
 
 ---
 ## Contact
-[KWong@penguinrandomhouse.co.uk](mailto:KWong@penguinrandomhouse.co.uk)
-
-One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW, United Kingdom
+[Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
 
 ---
 ## Experience
+**Divisional Director - Catastrophe Analytics | Gallagher Re**<br />
+*Mar 2023 to Present*<br />
+Europe, the Middle East and Africa (EMEA) West-South<br />
+
 **Head of Data Visualisation | Penguin Random House**<br />
-*Feb 2022 to Present*<br />
+*Feb 2022 to Mar 2023*<br />
 Data Team Centre of Excellence<br />
 
 **Senior Product Manager | Risk Management Solutions (RMS), part of Moody's Analytics**<br />
@@ -195,4 +197,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 09 October 2022
+Last Updated: 03 April 2023
