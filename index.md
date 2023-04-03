@@ -23,7 +23,7 @@ You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and
 *Mar 2023 to Present*<br />
 Europe, the Middle East and Africa (EMEA) West-South<br />
 
-**Head of Data Visualisation | Penguin Random House**<br />
+**Head of Data Visualisation | Penguin Random House UK**<br />
 *Feb 2022 to Mar 2023*<br />
 Data Team Centre of Excellence<br />
 
