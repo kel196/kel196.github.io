@@ -1,10 +1,8 @@
-# Dr Kelvin Wong
-
+# Dr Kelvin Wong ケルビン・ウォン
 #### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science
-
 ---
 
-## About Me
+## 自己紹介 About Me
 **Dr Kelvin Wong CGeog(GIS) FRGS** is a Divisional Director - Catastrophe Analytics, EMEA West-South at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Vice-Chair of the Disaster Risk Management Professional Practice Group
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
@@ -13,12 +11,17 @@ Find out more about Kelvin's research and publications [here](#peer-reviewed-pub
 
 You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
 
----
-## Contact
-[Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
+- 生年月日 1990年6月19日
+- ロンドン在住
 
 ---
-## Experience
+## 連絡先 Contact Information 
+- メール Email:[Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
+- Twitter: [@kel_196](https://www.linkedin.com/in/wongkelvin)
+- LinkedIn: [linkedin.com/in/wongkelvin](https://www.linkedin.com/in/wongkelvin)
+
+---
+## 職歴 Work Experience
 **Divisional Director - Catastrophe Analytics | Gallagher Re**<br />
 *Mar 2023 to Present*<br />
 Europe, the Middle East and Africa (EMEA) West-South<br />
@@ -60,7 +63,7 @@ Economic Value of 3D Geographic Information<br />
 Development, Transport and Infrastructure
 
 ---
-## Education
+## 学歴 Education
 **Engineering Doctorate | University College London, UK**<br />
 *Sep 2014 to Apr 2018*<br />
 3D Geographic Information Science, Department of Computer Science. In collaboration with Ordnance Survey.<br />
@@ -80,6 +83,10 @@ Department of Geography<br />
 **Bachelor of Science | University of Southampton, UK**<br />
 *Sep 2008 to Jul 2011*<br />
 2:1. Geography, Department of Geography<br />
+
+---
+## 経験・知識概要 Skills Overview
+
 
 ---
 ## Accreditations and Memberships
