@@ -43,7 +43,8 @@ ul, ol, dl, figure,
 }
 
 hr {
-  margin-top: $spacing-unit;
+  // margin-top: $spacing-unit;
+  margin-top: $spacing-unit/4;
   margin-bottom: $spacing-unit;
   border-top: 0.2em solid #004293;
 }
