@@ -9,8 +9,6 @@ Using science as a practical tool for solving real-life problems, his research t
 
 Find out more about Kelvin's research and publications [here](#peer-reviewed-publications).
 
-You can find him on LinkedIn [here](https://www.linkedin.com/in/wongkelvin), and on Twitter [here](https://twitter.com/kel_196).
-
 - 生年月日 1990年6月19日
 - ロンドン在住
 
