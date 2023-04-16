@@ -1,4 +1,4 @@
-# Kelvin Wong ケルビン・ウォン
+# KELVIN WONG ケルビン・ウォン
 BSc MSc MRes EngD CGeog (GIS) FRGS
 #### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science
 ---
@@ -10,12 +10,9 @@ Using science as a practical tool for solving real-life problems, his research t
 
 Find out more about Kelvin's research and publications [here](#peer-reviewed-publications).
 
-- 生年月日 1990年6月19日
-- ロンドン在住
-
 ---
 ## 連絡先 Contact Information 
-- メール Email:[Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
+- Email:[Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
 - Twitter: [@kel_196](https://www.linkedin.com/in/wongkelvin)
 - LinkedIn: [linkedin.com/in/wongkelvin](https://www.linkedin.com/in/wongkelvin)
 
@@ -84,10 +81,6 @@ Department of Geography<br />
 2:1. Geography, Department of Geography<br />
 
 ---
-## 経験・知識概要 Skills Overview
-
-
----
 ## Accreditations and Memberships
 **Royal Geographical Society (with IBG)**<br />
 *Sep 2020 to Present*<br />
@@ -119,7 +112,7 @@ This award honours member of staff who provides constructive, useful feedback on
 Awarded for most distinguished performance in the course by the Head of Department of Civil, Environmental and Geomatic Engineering.<br />
 
 ---
-## Research Funding
+## 研究費 Research Funding
 **Postdoctoral Fellowship for Research in Japan | Japan Society for the Promotion of Science**<br />
 *2018*<br />
 The program provides PhD students or PhD researchers in the Europe and North America with opportunities to conduct collaborative research under the guidance of their hosts in universities and other Japanese institutions.<br />
@@ -133,7 +126,7 @@ The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The awa
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.<br />
 
 ---
-## Volunteering
+## 志願 Volunteering
 **PhD Teacher | The Brilliant Club**<br />
 *Sep 2015 to Feb 2016*<br />
 The Scholars Programme recruits, trains, and places doctoral and postdoctoral researchers in secondary schools to deliver courses of university-style tutorials based on their research.<br />
@@ -143,7 +136,7 @@ The Scholars Programme recruits, trains, and places doctoral and postdoctoral re
 Providing one-to-one personalised IT support at the client’s own home for older residents who live in the borough of Epsom and Ewell.<br />
 
 ---
-## Peer-Reviewed Publications
+## 査読付き論文 Peer-Reviewed Publications
 
 |        |                                                              |
 | ------- | ------------------------------------------------------------ |
@@ -164,7 +157,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **01** | **Enhancing Positioning of Photovoltaic Panels using 3D Geographic Information**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 21st GIS Research UK (GISRUK) Conference*, Liverpool, UK, 2013 |
 
 ---
-## Industry Reports and Other Publications
+## 白書 Industry Reports and Other Publications
 
 |        |                                                              |
 | ------ | ------------------------------------------------------------ |
@@ -175,7 +168,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **01** | **Advances in 3DGIS**<br />Ellul, C. and Wong, K.<br />AGI foresight report 2020, the Association of Geographic Information, 2015<br />URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
 ---
-## Invited Talks
+## 招待講演 Invited Talks
 
 |        |                                                              |
 | ---------- | ------------------------------------------------------------ |
@@ -193,7 +186,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **01**   | *Talk:* **Designing 3D GI for Navigation Using Google Glass**<br />EuroSDR/ISPRS: Workshop for Capturing National Scale 3D Models, Ordnance Survey, Southampton, UK, 2014. <br />URL: [http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure](http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure) |
 
 ---
-## Theses
+## 研究論文 Theses
 
 |          |                                                              |
 | -------- | ------------------------------------------------------------ |
