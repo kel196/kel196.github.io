@@ -173,6 +173,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 |        |                                                              |
 | ---------- | ------------------------------------------------------------ |
+| **12** | *Plenary Panel:* **Geospatial Caravan: Embracing One & All**<br />Geospatial World Fourm 2023. Rotterdam, The Netherlands, 2023. |
 | **11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
 | **10**    | *Panel:* **Communicating and Understanding Risk in Dynamic Situations**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Fireside Chat. Virtual, 2021. |
 | **09**  | *Talk:* **Mapping for Autonomous Driving: Opportunities and Challenges**<br />Geospatial Seminar Series. University College London. London, UK, 2019. |
