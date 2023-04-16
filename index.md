@@ -1,4 +1,3 @@
-
 ---
 # KELVIN WONG
 # ケルビン・ウォン
@@ -17,8 +16,8 @@ Find out more about Kelvin's research and publications [here](#peer-reviewed-pub
 ---
 ## Contact Information 連絡先
 - Email: [Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
-- Twitter: [@kel_196](https://www.linkedin.com/in/wongkelvin)
 - LinkedIn: [linkedin.com/in/wongkelvin](https://www.linkedin.com/in/wongkelvin)
+- Twitter: [@kel_196](https://twitter.com/kel_196)
 
 ---
 ## Work Experience 職歴
