@@ -1,9 +1,9 @@
 # KELVIN WONG ケルビン・ウォン
+---
 BSc MSc MRes EngD CGeog (GIS) FRGS
 #### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science
 ---
-
-## 自己紹介 About Me
+## About Me 自己紹介
 **Kelvin Wong** is a Divisional Director - Catastrophe Analytics, EMEA West-South at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Vice-Chair of the Disaster Risk Management Professional Practice Group
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
@@ -11,13 +11,13 @@ Using science as a practical tool for solving real-life problems, his research t
 Find out more about Kelvin's research and publications [here](#peer-reviewed-publications).
 
 ---
-## 連絡先 Contact Information 
+## Contact Information 連絡先
 - Email:[Kelvin_Wong@GallagherRe.com](mailto:Kelvin_Wong@GallagherRe.com)
 - Twitter: [@kel_196](https://www.linkedin.com/in/wongkelvin)
 - LinkedIn: [linkedin.com/in/wongkelvin](https://www.linkedin.com/in/wongkelvin)
 
 ---
-## 職歴 Work Experience
+## Work Experience 職歴
 **Divisional Director - Catastrophe Analytics | Gallagher Re**<br />
 *Mar 2023 to Present*<br />
 Europe, the Middle East and Africa (EMEA) West-South<br />
@@ -59,7 +59,7 @@ Economic Value of 3D Geographic Information<br />
 Development, Transport and Infrastructure
 
 ---
-## 学歴 Education
+## Education 学歴
 **Engineering Doctorate | University College London, UK**<br />
 *Sep 2014 to Apr 2018*<br />
 3D Geographic Information Science, Department of Computer Science. In collaboration with Ordnance Survey.<br />
@@ -112,7 +112,7 @@ This award honours member of staff who provides constructive, useful feedback on
 Awarded for most distinguished performance in the course by the Head of Department of Civil, Environmental and Geomatic Engineering.<br />
 
 ---
-## 研究費 Research Funding
+## Research Funding 研究費
 **Postdoctoral Fellowship for Research in Japan | Japan Society for the Promotion of Science**<br />
 *2018*<br />
 The program provides PhD students or PhD researchers in the Europe and North America with opportunities to conduct collaborative research under the guidance of their hosts in universities and other Japanese institutions.<br />
@@ -126,7 +126,7 @@ The UCL Center VEIV Advance Scholarships are small grants worth £4,500. The awa
 The award provides a tax-free stipend of £18,590 per annum for four years, plus support for travel and research.<br />
 
 ---
-## 志願 Volunteering
+## Volunteering 志願
 **PhD Teacher | The Brilliant Club**<br />
 *Sep 2015 to Feb 2016*<br />
 The Scholars Programme recruits, trains, and places doctoral and postdoctoral researchers in secondary schools to deliver courses of university-style tutorials based on their research.<br />
@@ -136,7 +136,7 @@ The Scholars Programme recruits, trains, and places doctoral and postdoctoral re
 Providing one-to-one personalised IT support at the client’s own home for older residents who live in the borough of Epsom and Ewell.<br />
 
 ---
-## 査読付き論文 Peer-Reviewed Publications
+## Peer-Reviewed Publications 査読付き論文
 
 |        |                                                              |
 | ------- | ------------------------------------------------------------ |
@@ -157,7 +157,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **01** | **Enhancing Positioning of Photovoltaic Panels using 3D Geographic Information**<br />Wong, K. and Ellul, C.<br />In *Proceedings of the 21st GIS Research UK (GISRUK) Conference*, Liverpool, UK, 2013 |
 
 ---
-## 白書 Industry Reports and Other Publications
+## Industry Reports and Other Publications 白書
 
 |        |                                                              |
 | ------ | ------------------------------------------------------------ |
@@ -168,7 +168,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **01** | **Advances in 3DGIS**<br />Ellul, C. and Wong, K.<br />AGI foresight report 2020, the Association of Geographic Information, 2015<br />URL: [https://www.agi.org.uk/news/foresight-report](https://www.agi.org.uk/news/foresight-report) |
 
 ---
-## 招待講演 Invited Talks
+## Invited Talks 招待講演
 
 |        |                                                              |
 | ---------- | ------------------------------------------------------------ |
@@ -186,7 +186,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 | **01**   | *Talk:* **Designing 3D GI for Navigation Using Google Glass**<br />EuroSDR/ISPRS: Workshop for Capturing National Scale 3D Models, Ordnance Survey, Southampton, UK, 2014. <br />URL: [http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure](http://www.eurosdr.net/workshops/efficient-capturing-3d-objects-national-level-focus-buildings-and-infrastructure) |
 
 ---
-## 研究論文 Theses
+## Theses 研究論文
 
 |          |                                                              |
 | -------- | ------------------------------------------------------------ |
@@ -197,4 +197,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 03 April 2023
+Last Updated: 16 April 2023
