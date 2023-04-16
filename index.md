@@ -1,6 +1,5 @@
 # KELVIN WONG ケルビン・ウォン
----
-BSc MSc MRes EngD CGeog (GIS) FRGS
+<sup>BSc MSc MRes EngD CGeog (GIS) FRGS</sup>
 #### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science
 ---
 ## About Me 自己紹介
