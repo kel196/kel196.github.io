@@ -1,5 +1,3 @@
-
----
 # KELVIN WONG
 # ケルビン・ウォン
 <sub>BSc MSc MRes EngD CGeog (GIS) FRGS</sub>
@@ -85,7 +83,7 @@ Department of Geography<br />
 2:1. Geography, Department of Geography<br />
 
 ---
-## Accreditations and Memberships
+## Accreditations and Memberships 資格、関連学会
 **Royal Geographical Society (with IBG)**<br />
 *Sep 2020 to Present*<br />
 Fellow and Chartered Geographer (GIS)<br />
@@ -101,7 +99,7 @@ Member and Co-Convenor of the UK 3D Special Interest Group<br />
 
 ---
 
-## Awards, Honours, and Distinctions
+## Awards, Honours, and Distinctions 表彰
 
 **IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize**<br />
 *2019*<br />
@@ -201,4 +199,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 16 April 2023
+Last Updated: 17 April 2023
