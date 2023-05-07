@@ -29,7 +29,8 @@ minima:
 #     keybase: jekyll
 
 # Google Analytics
-google_analytics: UA-48477520-1
+# google_analytics: UA-48477520-1
+google_analytics: G-52QQHYGD94
 
 # Build Settings
 theme: jekyll-theme-minimal
