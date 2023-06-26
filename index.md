@@ -6,7 +6,7 @@
 
 ---
 ## About Me 自己紹介
-**Dr Kelvin Wong** is a Divisional Director - Catastrophe Analytics, EMEA West-South at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Vice-Chair of the Disaster Risk Management Professional Practice Group
+**Dr Kelvin Wong** is a Divisional Director - Catastrophe Analytics, Europe, the Middle East and Africa (EMEA) at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Vice-Chair of the Disaster Risk Management Professional Practice Group
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
 
@@ -22,7 +22,7 @@ Find out more about Kelvin's research and publications [here](#peer-reviewed-pub
 ## Work Experience 職歴
 **Divisional Director - Catastrophe Analytics | Gallagher Re**<br />
 *Mar 2023 to Present*<br />
-Europe, the Middle East and Africa (EMEA) West-South<br />
+Europe, the Middle East and Africa (EMEA)<br />
 
 **Head of Data Visualisation | Penguin Random House UK**<br />
 *Feb 2022 to Mar 2023*<br />
@@ -174,6 +174,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 |        |                                                              |
 | ---------- | ------------------------------------------------------------ |
+| **13**    | *Panel:* **The Art and Science of Geovisualisation for Disaster Risk Management**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Webinar. Virtual, 2023. |
 | **12** | *Plenary Panel:* **Geospatial Caravan: Embracing One & All**<br />Geospatial World Fourm 2023. Rotterdam, The Netherlands, 2023. |
 | **11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
 | **10**    | *Panel:* **Communicating and Understanding Risk in Dynamic Situations**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Fireside Chat. Virtual, 2021. |
@@ -199,4 +200,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 17 April 2023
+Last Updated: 26 June 2023
