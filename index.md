@@ -174,6 +174,7 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 |        |                                                              |
 | ---------- | ------------------------------------------------------------ |
+| **14**    | *Panel:* **Transformative Partnerships for Disaster Risk Reduction**<br />Royal Geographical Society with IBG Annual International Conference 2023, South Kensington, 29 Aug to 01 Sep, 2023. |
 | **13**    | *Panel:* **The Art and Science of Geovisualisation for Disaster Risk Management**<br />Royal Geographical Society, Disaster Risk Management Professional Practice Group, Webinar. Virtual, 2023. |
 | **12** | *Plenary Panel:* **Geospatial Caravan: Embracing One & All**<br />Geospatial World Fourm 2023. Rotterdam, The Netherlands, 2023. |
 | **11** | *Talk:* **From Microsoft Word to Contentful: What I Learned in My First 365 Days**<br />Fast Forward 2021, Contentful. Virtual, 2021. |
@@ -200,4 +201,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 26 June 2023
+Last Updated: 12 September 2023
