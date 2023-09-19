@@ -20,8 +20,12 @@ Find out more about Kelvin's research and publications [here](#peer-reviewed-pub
 
 ---
 ## Work Experience 職歴
+**Divisional Director - Head of Data | Gallagher Re**<br />
+*Sep 2023 to Present*<br />
+International<br />
+
 **Divisional Director - Catastrophe Analytics | Gallagher Re**<br />
-*Mar 2023 to Present*<br />
+*Mar 2023 to Sep 2023*<br />
 Europe, the Middle East and Africa (EMEA)<br />
 
 **Head of Data Visualisation | Penguin Random House UK**<br />
