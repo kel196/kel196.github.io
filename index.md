@@ -2,7 +2,7 @@
 # ケルビン・ウォン
 <sub>BSc MSc MRes EngD CGeog (GIS) FRGS</sub>
 
-#### Data & Analytics Leadership | Technical Product Management | Geospatial Data Science
+#### Data & Analytics Leadership | Product Management | Geospatial Data Science
 
 ---
 ## About Me 自己紹介
