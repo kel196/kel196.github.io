@@ -21,7 +21,7 @@ Find out more about Kelvin's research and publications [here](#peer-reviewed-pub
 ## Work Experience 職歴
 **Global Head of Geospatial | Gallagher Re**<br />
 *Aug 2024 to Present*<br />
-Global<br />
+Global Data & Analytics<br />
 
 **Divisional Director - Head of Data | Gallagher Re**<br />
 *Sep 2023 to Jul 2024*<br />
