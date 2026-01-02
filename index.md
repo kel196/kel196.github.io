@@ -98,14 +98,14 @@ Department of Geography<br />
 **Royal Geographical Society (with IBG)**<br />
 *Sep 2020 to Present*<br />
 Fellow and Chartered Geographer (GIS)<br />
-Chair of the Disaster Risk Management Professional Practice Group<br />
+Former Chair of the Disaster Risk Management Professional Practice Group (2023 to 2025)<br />
 
 **Data Visualisation Society**<br />
 *Mar 2020 to Present*<br />
 Member<br />
 
 **Association of Geographic Information**<br />
-*Sep 2011 to Present*<br />
+*Sep 2011 to April 2018*<br />
 Member and Co-Convenor of the UK 3D Special Interest Group<br />
 
 ---
