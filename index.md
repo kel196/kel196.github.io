@@ -2,11 +2,11 @@
 # ケルビン・ウォン
 <sub>BSc MSc MRes EngD CGeog (GIS) FRGS</sub>
 
-#### Data & Analytics Leadership | Product Management | Geospatial Data Science
+#### Digital, Data, & Analytics Leadership | Product Management | Geospatial Data Science
 
 ---
 ## About Me 自己紹介
-**Dr Kelvin Wong** is the Global Head of Geospatial at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Chair of the Disaster Risk Management Professional Practice Group
+**Dr Kelvin Wong** is the Global Head of Geospatial & Visualization at [Gallagher Re](https://www.ajg.com/gallagherre/). He holds an Engineering Doctorate degree in 3D Geographic Information Science from [University College London](https://www.ucl.ac.uk/) in the United Kingdom, where he also completed his MSc in Geographic Information Science and MRes in Virtual Environments, Imaging and Visualisations. He completed his BSc in Geography at the [University of Southampton](https://www.southampton.ac.uk/). After completing his doctorate, he was awarded a [Postdoctoral Fellowship for Research in Japan](https://www.jsps.go.jp/english/e-fellow/) from the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) to conduct research on intelligent transport systems at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/). He is a [Chartered Geographer](https://www.rgs.org/professionals/chartered-geographer/) and Fellow of [The Royal Geographical Society](https://www.rgs.org/), where is he also the Chair of the Disaster Risk Management Professional Practice Group
 
 Using science as a practical tool for solving real-life problems, his research to date applies to a wide range of domains, from autonomous vehicles to human behaviour understanding to transport planning. He believes in exploiting the latest technologies to develop data-driven, user-centric, and scalable solutions.
 
@@ -19,11 +19,15 @@ Find out more about Kelvin's research and publications [here](#peer-reviewed-pub
 
 ---
 ## Work Experience 職歴
+**Global Head of Visualization | Gallagher Re**<br />
+*Jan 2025 to Present*<br />
+Digital<br />
+
 **Global Head of Geospatial | Gallagher Re**<br />
 *Aug 2024 to Present*<br />
-Global Data & Analytics<br />
+Digital<br />
 
-**Divisional Director - Head of Data | Gallagher Re**<br />
+**Head of Data | Gallagher Re**<br />
 *Sep 2023 to Jul 2024*<br />
 International<br />
 
@@ -107,6 +111,10 @@ Member and Co-Convenor of the UK 3D Special Interest Group<br />
 ---
 
 ## Awards, Honours, and Distinctions 表彰
+
+**2025 Global CEO Awards - Gallagher Way Ambassador Award**<br />
+*2025*<br />
+Kelvin is an ideal candidate for the Gallagher Way Ambassador Award. He exemplifies teamwork, innovation, and integrity. Kelvin champions collaboration across teams, volunteering his time to enhance outcomes. His dedication is evident in his proactive sharing of insights and drive for innovation, benefiting both our organisation and clients. His reliability and commitment, working tirelessly to meet goals, elevate our team and embody the spirit of Gallagher Re, making him truly deserving of this award.<br />
 
 **IEEE 8th Global Conference on Consumer Electronics Excellent Paper Award | Bronze Prize**<br />
 *2019*<br />
@@ -210,4 +218,4 @@ Providing one-to-one personalised IT support at the client’s own home for olde
 
 ---
 
-Last Updated: 02 August 2024
+Last Updated: 02 January 2026
